@@ -1,0 +1,10 @@
+﻿Mode,Data source,Data note(s)
+Cars,Traffic counts at automatic traffic counters across Great Britain.,Percentage of the equivalent day in the first week of February 2020.
+Light Commercial Vehicles,Traffic counts at automatic traffic counters across Great Britain.,Percentage of the equivalent day in the first week of February 2020.
+Heavy Goods Vehicles,Traffic counts at automatic traffic counters across Great Britain.,Percentage of the equivalent day in the first week of February 2020.
+All motor vehicles,Traffic counts at automatic traffic counters across Great Britain.,Percentage of the equivalent day in the first week of February 2020.
+National Rail,"Passenger journeys across the rail network of Great Britain, based on the LENNON revenue settlement service for train operating companies.",Percentage of the equivalent week in 2019. This data is subject to revisions up to a week after initial publication. The latest days data would be an underestimate of the final result as the raw ticket sales data matures. 
+TfL Tube,Entry/exit data from tube stations.,Percentage of the equivalent day in 2019.
+TfL Bus,Bus boarding taps.,Percentage of the equivalent day in 2019. Data is not available from Sunday 19th April to 8th June due to the change in boarding policy.
+Bus excl. London,"Passenger boardings around half of bus services in Great Britain outside London, provided by Ticketer (www.ticketer.com/en/).","Percentage of the equivalent day of the third week of January 2020. Data has been adjusted to compare against typical usage on bank holidays, whereas all other data sources have not. Data is not available on 8th May."
+Cycling,"Estimated using telecommunications data anonymised and aggregated data from O2, as a measure of total trip numbers.",Percentage of the equivalent day in the first week of March. Covers England only. The data source is now available at a lag of 3 days rather than 1 from 11/9/20 so the data will be 2 days behind the other indicators going forward.

@@ -1,0 +1,2035 @@
+date,mode,note,percent_diff,category
+2020-03-01,Cars,2,103,Cars
+2020-03-01,Light Commercial Vehicles,2,111.00000000000001,Logistics
+2020-03-01,Heavy Goods Vehicles,2,108,Logistics
+2020-03-01,All motor vehicles,2,104,All motor vehicles
+2020-03-01,National Rail,"3,4",97,Other public
+2020-03-01,TfL Tube,5,104,London public
+2020-03-01,TfL Bus,"5,7",102,London public
+2020-03-01,Bus excl. London,"6,8,9",NA,Other public
+2020-03-01,Cycling,"10,11",NA,Cycling
+2020-03-02,Cars,2,102,Cars
+2020-03-02,Light Commercial Vehicles,2,106,Logistics
+2020-03-02,Heavy Goods Vehicles,2,103,Logistics
+2020-03-02,All motor vehicles,2,103,All motor vehicles
+2020-03-02,National Rail,"3,4",94,Other public
+2020-03-02,TfL Tube,5,95,London public
+2020-03-02,TfL Bus,"5,7",97,London public
+2020-03-02,Bus excl. London,"6,8,9",NA,Other public
+2020-03-02,Cycling,"10,11",NA,Cycling
+2020-03-03,Cars,2,101,Cars
+2020-03-03,Light Commercial Vehicles,2,105,Logistics
+2020-03-03,Heavy Goods Vehicles,2,102,Logistics
+2020-03-03,All motor vehicles,2,102,All motor vehicles
+2020-03-03,National Rail,"3,4",95,Other public
+2020-03-03,TfL Tube,5,95,London public
+2020-03-03,TfL Bus,"5,7",96,London public
+2020-03-03,Bus excl. London,"6,8,9",NA,Other public
+2020-03-03,Cycling,"10,11",NA,Cycling
+2020-03-04,Cars,2,101,Cars
+2020-03-04,Light Commercial Vehicles,2,104,Logistics
+2020-03-04,Heavy Goods Vehicles,2,103,Logistics
+2020-03-04,All motor vehicles,2,101,All motor vehicles
+2020-03-04,National Rail,"3,4",95,Other public
+2020-03-04,TfL Tube,5,95,London public
+2020-03-04,TfL Bus,"5,7",97,London public
+2020-03-04,Bus excl. London,"6,8,9",NA,Other public
+2020-03-04,Cycling,"10,11",NA,Cycling
+2020-03-05,Cars,2,100,Cars
+2020-03-05,Light Commercial Vehicles,2,103,Logistics
+2020-03-05,Heavy Goods Vehicles,2,102,Logistics
+2020-03-05,All motor vehicles,2,100,All motor vehicles
+2020-03-05,National Rail,"3,4",97,Other public
+2020-03-05,TfL Tube,5,92,London public
+2020-03-05,TfL Bus,"5,7",92,London public
+2020-03-05,Bus excl. London,"6,8,9",NA,Other public
+2020-03-05,Cycling,"10,11",NA,Cycling
+2020-03-06,Cars,2,102,Cars
+2020-03-06,Light Commercial Vehicles,2,103,Logistics
+2020-03-06,Heavy Goods Vehicles,2,102,Logistics
+2020-03-06,All motor vehicles,2,102,All motor vehicles
+2020-03-06,National Rail,"3,4",99,Other public
+2020-03-06,TfL Tube,5,92,London public
+2020-03-06,TfL Bus,"5,7",96,London public
+2020-03-06,Bus excl. London,"6,8,9",NA,Other public
+2020-03-06,Cycling,"10,11",NA,Cycling
+2020-03-07,Cars,2,101,Cars
+2020-03-07,Light Commercial Vehicles,2,109.00000000000001,Logistics
+2020-03-07,Heavy Goods Vehicles,2,108,Logistics
+2020-03-07,All motor vehicles,2,102,All motor vehicles
+2020-03-07,National Rail,"3,4",99,Other public
+2020-03-07,TfL Tube,5,91,London public
+2020-03-07,TfL Bus,"5,7",93,London public
+2020-03-07,Bus excl. London,"6,8,9",NA,Other public
+2020-03-07,Cycling,"10,11",NA,Cycling
+2020-03-08,Cars,2,105,Cars
+2020-03-08,Light Commercial Vehicles,2,112.99999999999999,Logistics
+2020-03-08,Heavy Goods Vehicles,2,112.00000000000001,Logistics
+2020-03-08,All motor vehicles,2,106,All motor vehicles
+2020-03-08,National Rail,"3,4",99,Other public
+2020-03-08,TfL Tube,5,87,London public
+2020-03-08,TfL Bus,"5,7",95,London public
+2020-03-08,Bus excl. London,"6,8,9",0,Other public
+2020-03-08,Cycling,"10,11",89,Cycling
+2020-03-09,Cars,2,101,Cars
+2020-03-09,Light Commercial Vehicles,2,107,Logistics
+2020-03-09,Heavy Goods Vehicles,2,104,Logistics
+2020-03-09,All motor vehicles,2,103,All motor vehicles
+2020-03-09,National Rail,"3,4",100,Other public
+2020-03-09,TfL Tube,5,90,London public
+2020-03-09,TfL Bus,"5,7",95,London public
+2020-03-09,Bus excl. London,"6,8,9",102,Other public
+2020-03-09,Cycling,"10,11",105,Cycling
+2020-03-10,Cars,2,99,Cars
+2020-03-10,Light Commercial Vehicles,2,105,Logistics
+2020-03-10,Heavy Goods Vehicles,2,103,Logistics
+2020-03-10,All motor vehicles,2,101,All motor vehicles
+2020-03-10,National Rail,"3,4",99,Other public
+2020-03-10,TfL Tube,5,89,London public
+2020-03-10,TfL Bus,"5,7",97,London public
+2020-03-10,Bus excl. London,"6,8,9",102,Other public
+2020-03-10,Cycling,"10,11",82,Cycling
+2020-03-11,Cars,2,99,Cars
+2020-03-11,Light Commercial Vehicles,2,104,Logistics
+2020-03-11,Heavy Goods Vehicles,2,103,Logistics
+2020-03-11,All motor vehicles,2,100,All motor vehicles
+2020-03-11,National Rail,"3,4",98,Other public
+2020-03-11,TfL Tube,5,86,London public
+2020-03-11,TfL Bus,"5,7",93,London public
+2020-03-11,Bus excl. London,"6,8,9",98,Other public
+2020-03-11,Cycling,"10,11",118,Cycling
+2020-03-12,Cars,2,98,Cars
+2020-03-12,Light Commercial Vehicles,2,102,Logistics
+2020-03-12,Heavy Goods Vehicles,2,102,Logistics
+2020-03-12,All motor vehicles,2,99,All motor vehicles
+2020-03-12,National Rail,"3,4",96,Other public
+2020-03-12,TfL Tube,5,81,London public
+2020-03-12,TfL Bus,"5,7",92,London public
+2020-03-12,Bus excl. London,"6,8,9",98,Other public
+2020-03-12,Cycling,"10,11",120,Cycling
+2020-03-13,Cars,2,98,Cars
+2020-03-13,Light Commercial Vehicles,2,100,Logistics
+2020-03-13,Heavy Goods Vehicles,2,102,Logistics
+2020-03-13,All motor vehicles,2,98,All motor vehicles
+2020-03-13,National Rail,"3,4",92,Other public
+2020-03-13,TfL Tube,5,72,London public
+2020-03-13,TfL Bus,"5,7",87,London public
+2020-03-13,Bus excl. London,"6,8,9",94,Other public
+2020-03-13,Cycling,"10,11",99,Cycling
+2020-03-14,Cars,2,93,Cars
+2020-03-14,Light Commercial Vehicles,2,102,Logistics
+2020-03-14,Heavy Goods Vehicles,2,108,Logistics
+2020-03-14,All motor vehicles,2,95,All motor vehicles
+2020-03-14,National Rail,"3,4",89,Other public
+2020-03-14,TfL Tube,5,61,London public
+2020-03-14,TfL Bus,"5,7",83,London public
+2020-03-14,Bus excl. London,"6,8,9",85,Other public
+2020-03-14,Cycling,"10,11",127,Cycling
+2020-03-15,Cars,2,94,Cars
+2020-03-15,Light Commercial Vehicles,2,105,Logistics
+2020-03-15,Heavy Goods Vehicles,2,112.00000000000001,Logistics
+2020-03-15,All motor vehicles,2,96,All motor vehicles
+2020-03-15,National Rail,"3,4",85,Other public
+2020-03-15,TfL Tube,5,54,London public
+2020-03-15,TfL Bus,"5,7",74,London public
+2020-03-15,Bus excl. London,"6,8,9",85,Other public
+2020-03-15,Cycling,"10,11",93,Cycling
+2020-03-16,Cars,2,96,Cars
+2020-03-16,Light Commercial Vehicles,2,103,Logistics
+2020-03-16,Heavy Goods Vehicles,2,104,Logistics
+2020-03-16,All motor vehicles,2,98,All motor vehicles
+2020-03-16,National Rail,"3,4",78,Other public
+2020-03-16,TfL Tube,5,60,London public
+2020-03-16,TfL Bus,"5,7",79,London public
+2020-03-16,Bus excl. London,"6,8,9",88,Other public
+2020-03-16,Cycling,"10,11",104,Cycling
+2020-03-17,Cars,2,86,Cars
+2020-03-17,Light Commercial Vehicles,2,95,Logistics
+2020-03-17,Heavy Goods Vehicles,2,103,Logistics
+2020-03-17,All motor vehicles,2,89,All motor vehicles
+2020-03-17,National Rail,"3,4",69,Other public
+2020-03-17,TfL Tube,5,44,London public
+2020-03-17,TfL Bus,"5,7",70,London public
+2020-03-17,Bus excl. London,"6,8,9",77,Other public
+2020-03-17,Cycling,"10,11",77,Cycling
+2020-03-18,Cars,2,80,Cars
+2020-03-18,Light Commercial Vehicles,2,90,Logistics
+2020-03-18,Heavy Goods Vehicles,2,100,Logistics
+2020-03-18,All motor vehicles,2,83,All motor vehicles
+2020-03-18,National Rail,"3,4",59,Other public
+2020-03-18,TfL Tube,5,35,London public
+2020-03-18,TfL Bus,"5,7",65,London public
+2020-03-18,Bus excl. London,"6,8,9",62,Other public
+2020-03-18,Cycling,"10,11",93,Cycling
+2020-03-19,Cars,2,79,Cars
+2020-03-19,Light Commercial Vehicles,2,88,Logistics
+2020-03-19,Heavy Goods Vehicles,2,100,Logistics
+2020-03-19,All motor vehicles,2,82,All motor vehicles
+2020-03-19,National Rail,"3,4",51,Other public
+2020-03-19,TfL Tube,5,30,London public
+2020-03-19,TfL Bus,"5,7",59,London public
+2020-03-19,Bus excl. London,"6,8,9",57.99999999999999,Other public
+2020-03-19,Cycling,"10,11",91,Cycling
+2020-03-20,Cars,2,78,Cars
+2020-03-20,Light Commercial Vehicles,2,85,Logistics
+2020-03-20,Heavy Goods Vehicles,2,98,Logistics
+2020-03-20,All motor vehicles,2,81,All motor vehicles
+2020-03-20,National Rail,"3,4",43,Other public
+2020-03-20,TfL Tube,5,24,London public
+2020-03-20,TfL Bus,"5,7",52,London public
+2020-03-20,Bus excl. London,"6,8,9",53,Other public
+2020-03-20,Cycling,"10,11",82,Cycling
+2020-03-21,Cars,2,70,Cars
+2020-03-21,Light Commercial Vehicles,2,79,Logistics
+2020-03-21,Heavy Goods Vehicles,2,102,Logistics
+2020-03-21,All motor vehicles,2,73,All motor vehicles
+2020-03-21,National Rail,"3,4",37,Other public
+2020-03-21,TfL Tube,5,13,London public
+2020-03-21,TfL Bus,"5,7",39,London public
+2020-03-21,Bus excl. London,"6,8,9",40,Other public
+2020-03-21,Cycling,"10,11",118,Cycling
+2020-03-22,Cars,2,66,Cars
+2020-03-22,Light Commercial Vehicles,2,73,Logistics
+2020-03-22,Heavy Goods Vehicles,2,101,Logistics
+2020-03-22,All motor vehicles,2,69,All motor vehicles
+2020-03-22,National Rail,"3,4",33,Other public
+2020-03-22,TfL Tube,5,11,London public
+2020-03-22,TfL Bus,"5,7",32,London public
+2020-03-22,Bus excl. London,"6,8,9",35,Other public
+2020-03-22,Cycling,"10,11",126,Cycling
+2020-03-23,Cars,2,64,Cars
+2020-03-23,Light Commercial Vehicles,2,77,Logistics
+2020-03-23,Heavy Goods Vehicles,2,97,Logistics
+2020-03-23,All motor vehicles,2,69,All motor vehicles
+2020-03-23,National Rail,"3,4",25,Other public
+2020-03-23,TfL Tube,5,15,London public
+2020-03-23,TfL Bus,"5,7",31,London public
+2020-03-23,Bus excl. London,"6,8,9",27,Other public
+2020-03-23,Cycling,"10,11",85,Cycling
+2020-03-24,Cars,2,44,Cars
+2020-03-24,Light Commercial Vehicles,2,56.00000000000001,Logistics
+2020-03-24,Heavy Goods Vehicles,2,84,Logistics
+2020-03-24,All motor vehicles,2,49,All motor vehicles
+2020-03-24,National Rail,"3,4",20,Other public
+2020-03-24,TfL Tube,5,9,London public
+2020-03-24,TfL Bus,"5,7",22,London public
+2020-03-24,Bus excl. London,"6,8,9",17,Other public
+2020-03-24,Cycling,"10,11",85,Cycling
+2020-03-25,Cars,2,37,Cars
+2020-03-25,Light Commercial Vehicles,2,47,Logistics
+2020-03-25,Heavy Goods Vehicles,2,77,Logistics
+2020-03-25,All motor vehicles,2,42,All motor vehicles
+2020-03-25,National Rail,"3,4",16,Other public
+2020-03-25,TfL Tube,5,7.000000000000001,London public
+2020-03-25,TfL Bus,"5,7",19,London public
+2020-03-25,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-03-25,Cycling,"10,11",127,Cycling
+2020-03-26,Cars,2,35,Cars
+2020-03-26,Light Commercial Vehicles,2,43,Logistics
+2020-03-26,Heavy Goods Vehicles,2,72,Logistics
+2020-03-26,All motor vehicles,2,39,All motor vehicles
+2020-03-26,National Rail,"3,4",13,Other public
+2020-03-26,TfL Tube,5,6,London public
+2020-03-26,TfL Bus,"5,7",18,London public
+2020-03-26,Bus excl. London,"6,8,9",13,Other public
+2020-03-26,Cycling,"10,11",131,Cycling
+2020-03-27,Cars,2,35,Cars
+2020-03-27,Light Commercial Vehicles,2,42,Logistics
+2020-03-27,Heavy Goods Vehicles,2,69,Logistics
+2020-03-27,All motor vehicles,2,38,All motor vehicles
+2020-03-27,National Rail,"3,4",10,Other public
+2020-03-27,TfL Tube,5,6,London public
+2020-03-27,TfL Bus,"5,7",18,London public
+2020-03-27,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-03-27,Cycling,"10,11",106,Cycling
+2020-03-28,Cars,2,27,Cars
+2020-03-28,Light Commercial Vehicles,2,34,Logistics
+2020-03-28,Heavy Goods Vehicles,2,71,Logistics
+2020-03-28,All motor vehicles,2,30,All motor vehicles
+2020-03-28,National Rail,"3,4",9,Other public
+2020-03-28,TfL Tube,5,4,London public
+2020-03-28,TfL Bus,"5,7",17,London public
+2020-03-28,Bus excl. London,"6,8,9",12,Other public
+2020-03-28,Cycling,"10,11",125,Cycling
+2020-03-29,Cars,2,23,Cars
+2020-03-29,Light Commercial Vehicles,2,28.999999999999996,Logistics
+2020-03-29,Heavy Goods Vehicles,2,72,Logistics
+2020-03-29,All motor vehicles,2,25,All motor vehicles
+2020-03-29,National Rail,"3,4",8,Other public
+2020-03-29,TfL Tube,5,4,London public
+2020-03-29,TfL Bus,"5,7",16,London public
+2020-03-29,Bus excl. London,"6,8,9",13,Other public
+2020-03-29,Cycling,"10,11",83,Cycling
+2020-03-30,Cars,2,33,Cars
+2020-03-30,Light Commercial Vehicles,2,41,Logistics
+2020-03-30,Heavy Goods Vehicles,2,64,Logistics
+2020-03-30,All motor vehicles,2,36,All motor vehicles
+2020-03-30,National Rail,"3,4",6,Other public
+2020-03-30,TfL Tube,5,5,London public
+2020-03-30,TfL Bus,"5,7",17,London public
+2020-03-30,Bus excl. London,"6,8,9",12,Other public
+2020-03-30,Cycling,"10,11",72,Cycling
+2020-03-31,Cars,2,32,Cars
+2020-03-31,Light Commercial Vehicles,2,40,Logistics
+2020-03-31,Heavy Goods Vehicles,2,62,Logistics
+2020-03-31,All motor vehicles,2,36,All motor vehicles
+2020-03-31,National Rail,"3,4",5,Other public
+2020-03-31,TfL Tube,5,5,London public
+2020-03-31,TfL Bus,"5,7",17,London public
+2020-03-31,Bus excl. London,"6,8,9",12,Other public
+2020-03-31,Cycling,"10,11",96,Cycling
+2020-04-01,Cars,2,32,Cars
+2020-04-01,Light Commercial Vehicles,2,39,Logistics
+2020-04-01,Heavy Goods Vehicles,2,61,Logistics
+2020-04-01,All motor vehicles,2,35,All motor vehicles
+2020-04-01,National Rail,"3,4",5,Other public
+2020-04-01,TfL Tube,5,5,London public
+2020-04-01,TfL Bus,"5,7",16,London public
+2020-04-01,Bus excl. London,"6,8,9",11,Other public
+2020-04-01,Cycling,"10,11",111.00000000000001,Cycling
+2020-04-02,Cars,2,32,Cars
+2020-04-02,Light Commercial Vehicles,2,38,Logistics
+2020-04-02,Heavy Goods Vehicles,2,60,Logistics
+2020-04-02,All motor vehicles,2,35,All motor vehicles
+2020-04-02,National Rail,"3,4",5,Other public
+2020-04-02,TfL Tube,5,5,London public
+2020-04-02,TfL Bus,"5,7",16,London public
+2020-04-02,Bus excl. London,"6,8,9",11,Other public
+2020-04-02,Cycling,"10,11",110.00000000000001,Cycling
+2020-04-03,Cars,2,34,Cars
+2020-04-03,Light Commercial Vehicles,2,40,Logistics
+2020-04-03,Heavy Goods Vehicles,2,60,Logistics
+2020-04-03,All motor vehicles,2,36,All motor vehicles
+2020-04-03,National Rail,"3,4",5,Other public
+2020-04-03,TfL Tube,5,5,London public
+2020-04-03,TfL Bus,"5,7",16,London public
+2020-04-03,Bus excl. London,"6,8,9",12,Other public
+2020-04-03,Cycling,"10,11",111.00000000000001,Cycling
+2020-04-04,Cars,2,28.000000000000004,Cars
+2020-04-04,Light Commercial Vehicles,2,35,Logistics
+2020-04-04,Heavy Goods Vehicles,2,66,Logistics
+2020-04-04,All motor vehicles,2,31,All motor vehicles
+2020-04-04,National Rail,"3,4",5,Other public
+2020-04-04,TfL Tube,5,4,London public
+2020-04-04,TfL Bus,"5,7",17,London public
+2020-04-04,Bus excl. London,"6,8,9",11,Other public
+2020-04-04,Cycling,"10,11",199,Cycling
+2020-04-05,Cars,2,25,Cars
+2020-04-05,Light Commercial Vehicles,2,31,Logistics
+2020-04-05,Heavy Goods Vehicles,2,70,Logistics
+2020-04-05,All motor vehicles,2,27,All motor vehicles
+2020-04-05,National Rail,"3,4",5,Other public
+2020-04-05,TfL Tube,5,4,London public
+2020-04-05,TfL Bus,"5,7",17,London public
+2020-04-05,Bus excl. London,"6,8,9",12,Other public
+2020-04-05,Cycling,"10,11",225.99999999999997,Cycling
+2020-04-06,Cars,2,34,Cars
+2020-04-06,Light Commercial Vehicles,2,42,Logistics
+2020-04-06,Heavy Goods Vehicles,2,61,Logistics
+2020-04-06,All motor vehicles,2,37,All motor vehicles
+2020-04-06,National Rail,"3,4",5,Other public
+2020-04-06,TfL Tube,5,5,London public
+2020-04-06,TfL Bus,"5,7",18,London public
+2020-04-06,Bus excl. London,"6,8,9",11,Other public
+2020-04-06,Cycling,"10,11",105,Cycling
+2020-04-07,Cars,2,33,Cars
+2020-04-07,Light Commercial Vehicles,2,41,Logistics
+2020-04-07,Heavy Goods Vehicles,2,60,Logistics
+2020-04-07,All motor vehicles,2,36,All motor vehicles
+2020-04-07,National Rail,"3,4",5,Other public
+2020-04-07,TfL Tube,5,5,London public
+2020-04-07,TfL Bus,"5,7",18,London public
+2020-04-07,Bus excl. London,"6,8,9",11,Other public
+2020-04-07,Cycling,"10,11",138,Cycling
+2020-04-08,Cars,2,34,Cars
+2020-04-08,Light Commercial Vehicles,2,42,Logistics
+2020-04-08,Heavy Goods Vehicles,2,62,Logistics
+2020-04-08,All motor vehicles,2,37,All motor vehicles
+2020-04-08,National Rail,"3,4",5,Other public
+2020-04-08,TfL Tube,5,5,London public
+2020-04-08,TfL Bus,"5,7",17,London public
+2020-04-08,Bus excl. London,"6,8,9",10,Other public
+2020-04-08,Cycling,"10,11",154,Cycling
+2020-04-09,Cars,2,36,Cars
+2020-04-09,Light Commercial Vehicles,2,43,Logistics
+2020-04-09,Heavy Goods Vehicles,2,61,Logistics
+2020-04-09,All motor vehicles,2,39,All motor vehicles
+2020-04-09,National Rail,"3,4",5,Other public
+2020-04-09,TfL Tube,5,5,London public
+2020-04-09,TfL Bus,"5,7",18,London public
+2020-04-09,Bus excl. London,"6,8,9",12,Other public
+2020-04-09,Cycling,"10,11",168,Cycling
+2020-04-10,Cars,2,27,Cars
+2020-04-10,Light Commercial Vehicles,2,27,Logistics
+2020-04-10,Heavy Goods Vehicles,2,33,Logistics
+2020-04-10,All motor vehicles,2,27,All motor vehicles
+2020-04-10,National Rail,"3,4",4,Other public
+2020-04-10,TfL Tube,5,4,London public
+2020-04-10,TfL Bus,"5,7",17,London public
+2020-04-10,Bus excl. London,"6,8,9",12,Other public
+2020-04-10,Cycling,"10,11",179,Cycling
+2020-04-11,Cars,2,28.999999999999996,Cars
+2020-04-11,Light Commercial Vehicles,2,35,Logistics
+2020-04-11,Heavy Goods Vehicles,2,55.00000000000001,Logistics
+2020-04-11,All motor vehicles,2,31,All motor vehicles
+2020-04-11,National Rail,"3,4",4,Other public
+2020-04-11,TfL Tube,5,4,London public
+2020-04-11,TfL Bus,"5,7",16,London public
+2020-04-11,Bus excl. London,"6,8,9",10,Other public
+2020-04-11,Cycling,"10,11",288,Cycling
+2020-04-12,Cars,2,22,Cars
+2020-04-12,Light Commercial Vehicles,2,27,Logistics
+2020-04-12,Heavy Goods Vehicles,2,50,Logistics
+2020-04-12,All motor vehicles,2,24,All motor vehicles
+2020-04-12,National Rail,"3,4",4,Other public
+2020-04-12,TfL Tube,5,4,London public
+2020-04-12,TfL Bus,"5,7",14.000000000000002,London public
+2020-04-12,Bus excl. London,"6,8,9",10,Other public
+2020-04-12,Cycling,"10,11",247.00000000000003,Cycling
+2020-04-13,Cars,2,23,Cars
+2020-04-13,Light Commercial Vehicles,2,22,Logistics
+2020-04-13,Heavy Goods Vehicles,2,25,Logistics
+2020-04-13,All motor vehicles,2,23,All motor vehicles
+2020-04-13,National Rail,"3,4",4,Other public
+2020-04-13,TfL Tube,5,5,London public
+2020-04-13,TfL Bus,"5,7",18,London public
+2020-04-13,Bus excl. London,"6,8,9",12,Other public
+2020-04-13,Cycling,"10,11",122,Cycling
+2020-04-14,Cars,2,35,Cars
+2020-04-14,Light Commercial Vehicles,2,44,Logistics
+2020-04-14,Heavy Goods Vehicles,2,60,Logistics
+2020-04-14,All motor vehicles,2,38,All motor vehicles
+2020-04-14,National Rail,"3,4",4,Other public
+2020-04-14,TfL Tube,5,5,London public
+2020-04-14,TfL Bus,"5,7",19,London public
+2020-04-14,Bus excl. London,"6,8,9",12,Other public
+2020-04-14,Cycling,"10,11",134,Cycling
+2020-04-15,Cars,2,34,Cars
+2020-04-15,Light Commercial Vehicles,2,44,Logistics
+2020-04-15,Heavy Goods Vehicles,2,63,Logistics
+2020-04-15,All motor vehicles,2,38,All motor vehicles
+2020-04-15,National Rail,"3,4",4,Other public
+2020-04-15,TfL Tube,5,5,London public
+2020-04-15,TfL Bus,"5,7",18,London public
+2020-04-15,Bus excl. London,"6,8,9",10,Other public
+2020-04-15,Cycling,"10,11",194,Cycling
+2020-04-16,Cars,2,34,Cars
+2020-04-16,Light Commercial Vehicles,2,42,Logistics
+2020-04-16,Heavy Goods Vehicles,2,63,Logistics
+2020-04-16,All motor vehicles,2,38,All motor vehicles
+2020-04-16,National Rail,"3,4",4,Other public
+2020-04-16,TfL Tube,5,5,London public
+2020-04-16,TfL Bus,"5,7",18,London public
+2020-04-16,Bus excl. London,"6,8,9",11,Other public
+2020-04-16,Cycling,"10,11",202.99999999999997,Cycling
+2020-04-17,Cars,2,35,Cars
+2020-04-17,Light Commercial Vehicles,2,43,Logistics
+2020-04-17,Heavy Goods Vehicles,2,63,Logistics
+2020-04-17,All motor vehicles,2,39,All motor vehicles
+2020-04-17,National Rail,"3,4",5,Other public
+2020-04-17,TfL Tube,5,5,London public
+2020-04-17,TfL Bus,"5,7",18,London public
+2020-04-17,Bus excl. London,"6,8,9",11,Other public
+2020-04-17,Cycling,"10,11",100,Cycling
+2020-04-18,Cars,2,31,Cars
+2020-04-18,Light Commercial Vehicles,2,38,Logistics
+2020-04-18,Heavy Goods Vehicles,2,71,Logistics
+2020-04-18,All motor vehicles,2,33,All motor vehicles
+2020-04-18,National Rail,"3,4",5,Other public
+2020-04-18,TfL Tube,5,4,London public
+2020-04-18,TfL Bus,"5,7",16,London public
+2020-04-18,Bus excl. London,"6,8,9",11,Other public
+2020-04-18,Cycling,"10,11",143,Cycling
+2020-04-19,Cars,2,28.999999999999996,Cars
+2020-04-19,Light Commercial Vehicles,2,36,Logistics
+2020-04-19,Heavy Goods Vehicles,2,73,Logistics
+2020-04-19,All motor vehicles,2,32,All motor vehicles
+2020-04-19,National Rail,"3,4",5,Other public
+2020-04-19,TfL Tube,5,4,London public
+2020-04-19,TfL Bus,"5,7",0,London public
+2020-04-19,Bus excl. London,"6,8,9",13,Other public
+2020-04-19,Cycling,"10,11",320,Cycling
+2020-04-20,Cars,2,38,Cars
+2020-04-20,Light Commercial Vehicles,2,48,Logistics
+2020-04-20,Heavy Goods Vehicles,2,65,Logistics
+2020-04-20,All motor vehicles,2,41,All motor vehicles
+2020-04-20,National Rail,"3,4",6,Other public
+2020-04-20,TfL Tube,5,5,London public
+2020-04-20,TfL Bus,"5,7",0,London public
+2020-04-20,Bus excl. London,"6,8,9",12,Other public
+2020-04-20,Cycling,"10,11",139,Cycling
+2020-04-21,Cars,2,37,Cars
+2020-04-21,Light Commercial Vehicles,2,47,Logistics
+2020-04-21,Heavy Goods Vehicles,2,64,Logistics
+2020-04-21,All motor vehicles,2,41,All motor vehicles
+2020-04-21,National Rail,"3,4",5,Other public
+2020-04-21,TfL Tube,5,5,London public
+2020-04-21,TfL Bus,"5,7",0,London public
+2020-04-21,Bus excl. London,"6,8,9",11,Other public
+2020-04-21,Cycling,"10,11",150,Cycling
+2020-04-22,Cars,2,37,Cars
+2020-04-22,Light Commercial Vehicles,2,47,Logistics
+2020-04-22,Heavy Goods Vehicles,2,65,Logistics
+2020-04-22,All motor vehicles,2,41,All motor vehicles
+2020-04-22,National Rail,"3,4",5,Other public
+2020-04-22,TfL Tube,5,5,London public
+2020-04-22,TfL Bus,"5,7",0,London public
+2020-04-22,Bus excl. London,"6,8,9",11,Other public
+2020-04-22,Cycling,"10,11",200.99999999999997,Cycling
+2020-04-23,Cars,2,37,Cars
+2020-04-23,Light Commercial Vehicles,2,46,Logistics
+2020-04-23,Heavy Goods Vehicles,2,64,Logistics
+2020-04-23,All motor vehicles,2,41,All motor vehicles
+2020-04-23,National Rail,"3,4",5,Other public
+2020-04-23,TfL Tube,5,5,London public
+2020-04-23,TfL Bus,"5,7",0,London public
+2020-04-23,Bus excl. London,"6,8,9",11,Other public
+2020-04-23,Cycling,"10,11",220.00000000000003,Cycling
+2020-04-24,Cars,2,39,Cars
+2020-04-24,Light Commercial Vehicles,2,46,Logistics
+2020-04-24,Heavy Goods Vehicles,2,65,Logistics
+2020-04-24,All motor vehicles,2,42,All motor vehicles
+2020-04-24,National Rail,"3,4",4,Other public
+2020-04-24,TfL Tube,5,5,London public
+2020-04-24,TfL Bus,"5,7",0,London public
+2020-04-24,Bus excl. London,"6,8,9",12,Other public
+2020-04-24,Cycling,"10,11",188,Cycling
+2020-04-25,Cars,2,35,Cars
+2020-04-25,Light Commercial Vehicles,2,43,Logistics
+2020-04-25,Heavy Goods Vehicles,2,71,Logistics
+2020-04-25,All motor vehicles,2,38,All motor vehicles
+2020-04-25,National Rail,"3,4",4,Other public
+2020-04-25,TfL Tube,5,4,London public
+2020-04-25,TfL Bus,"5,7",0,London public
+2020-04-25,Bus excl. London,"6,8,9",12,Other public
+2020-04-25,Cycling,"10,11",292,Cycling
+2020-04-26,Cars,2,32,Cars
+2020-04-26,Light Commercial Vehicles,2,40,Logistics
+2020-04-26,Heavy Goods Vehicles,2,75,Logistics
+2020-04-26,All motor vehicles,2,35,All motor vehicles
+2020-04-26,National Rail,"3,4",4,Other public
+2020-04-26,TfL Tube,5,4,London public
+2020-04-26,TfL Bus,"5,7",0,London public
+2020-04-26,Bus excl. London,"6,8,9",13,Other public
+2020-04-26,Cycling,"10,11",343,Cycling
+2020-04-27,Cars,2,40,Cars
+2020-04-27,Light Commercial Vehicles,2,51,Logistics
+2020-04-27,Heavy Goods Vehicles,2,68,Logistics
+2020-04-27,All motor vehicles,2,44,All motor vehicles
+2020-04-27,National Rail,"3,4",4,Other public
+2020-04-27,TfL Tube,5,5,London public
+2020-04-27,TfL Bus,"5,7",0,London public
+2020-04-27,Bus excl. London,"6,8,9",12,Other public
+2020-04-27,Cycling,"10,11",159,Cycling
+2020-04-28,Cars,2,38,Cars
+2020-04-28,Light Commercial Vehicles,2,49,Logistics
+2020-04-28,Heavy Goods Vehicles,2,67,Logistics
+2020-04-28,All motor vehicles,2,42,All motor vehicles
+2020-04-28,National Rail,"3,4",4,Other public
+2020-04-28,TfL Tube,5,5,London public
+2020-04-28,TfL Bus,"5,7",0,London public
+2020-04-28,Bus excl. London,"6,8,9",11,Other public
+2020-04-28,Cycling,"10,11",49,Cycling
+2020-04-29,Cars,2,38,Cars
+2020-04-29,Light Commercial Vehicles,2,49,Logistics
+2020-04-29,Heavy Goods Vehicles,2,68,Logistics
+2020-04-29,All motor vehicles,2,42,All motor vehicles
+2020-04-29,National Rail,"3,4",4,Other public
+2020-04-29,TfL Tube,5,5,London public
+2020-04-29,TfL Bus,"5,7",0,London public
+2020-04-29,Bus excl. London,"6,8,9",11,Other public
+2020-04-29,Cycling,"10,11",111.00000000000001,Cycling
+2020-04-30,Cars,2,39,Cars
+2020-04-30,Light Commercial Vehicles,2,48,Logistics
+2020-04-30,Heavy Goods Vehicles,2,67,Logistics
+2020-04-30,All motor vehicles,2,42,All motor vehicles
+2020-04-30,National Rail,"3,4",4,Other public
+2020-04-30,TfL Tube,5,5,London public
+2020-04-30,TfL Bus,"5,7",0,London public
+2020-04-30,Bus excl. London,"6,8,9",11,Other public
+2020-04-30,Cycling,"10,11",97,Cycling
+2020-05-01,Cars,2,40,Cars
+2020-05-01,Light Commercial Vehicles,2,50,Logistics
+2020-05-01,Heavy Goods Vehicles,2,66,Logistics
+2020-05-01,All motor vehicles,2,44,All motor vehicles
+2020-05-01,National Rail,"3,4",4,Other public
+2020-05-01,TfL Tube,5,5,London public
+2020-05-01,TfL Bus,"5,7",0,London public
+2020-05-01,Bus excl. London,"6,8,9",12,Other public
+2020-05-01,Cycling,"10,11",123,Cycling
+2020-05-02,Cars,2,38,Cars
+2020-05-02,Light Commercial Vehicles,2,47,Logistics
+2020-05-02,Heavy Goods Vehicles,2,72,Logistics
+2020-05-02,All motor vehicles,2,40,All motor vehicles
+2020-05-02,National Rail,"3,4",4,Other public
+2020-05-02,TfL Tube,5,4,London public
+2020-05-02,TfL Bus,"5,7",0,London public
+2020-05-02,Bus excl. London,"6,8,9",12,Other public
+2020-05-02,Cycling,"10,11",310,Cycling
+2020-05-03,Cars,2,34,Cars
+2020-05-03,Light Commercial Vehicles,2,42,Logistics
+2020-05-03,Heavy Goods Vehicles,2,76,Logistics
+2020-05-03,All motor vehicles,2,37,All motor vehicles
+2020-05-03,National Rail,"3,4",4,Other public
+2020-05-03,TfL Tube,5,4,London public
+2020-05-03,TfL Bus,"5,7",0,London public
+2020-05-03,Bus excl. London,"6,8,9",13,Other public
+2020-05-03,Cycling,"10,11",258,Cycling
+2020-05-04,Cars,2,42,Cars
+2020-05-04,Light Commercial Vehicles,2,55.00000000000001,Logistics
+2020-05-04,Heavy Goods Vehicles,2,70,Logistics
+2020-05-04,All motor vehicles,2,46,All motor vehicles
+2020-05-04,National Rail,"3,4",5,Other public
+2020-05-04,TfL Tube,5,6,London public
+2020-05-04,TfL Bus,"5,7",0,London public
+2020-05-04,Bus excl. London,"6,8,9",12,Other public
+2020-05-04,Cycling,"10,11",155,Cycling
+2020-05-05,Cars,2,42,Cars
+2020-05-05,Light Commercial Vehicles,2,54,Logistics
+2020-05-05,Heavy Goods Vehicles,2,71,Logistics
+2020-05-05,All motor vehicles,2,46,All motor vehicles
+2020-05-05,National Rail,"3,4",5,Other public
+2020-05-05,TfL Tube,5,6,London public
+2020-05-05,TfL Bus,"5,7",0,London public
+2020-05-05,Bus excl. London,"6,8,9",12,Other public
+2020-05-05,Cycling,"10,11",131,Cycling
+2020-05-06,Cars,2,43,Cars
+2020-05-06,Light Commercial Vehicles,2,55.00000000000001,Logistics
+2020-05-06,Heavy Goods Vehicles,2,73,Logistics
+2020-05-06,All motor vehicles,2,47,All motor vehicles
+2020-05-06,National Rail,"3,4",5,Other public
+2020-05-06,TfL Tube,5,5,London public
+2020-05-06,TfL Bus,"5,7",0,London public
+2020-05-06,Bus excl. London,"6,8,9",12,Other public
+2020-05-06,Cycling,"10,11",225.99999999999997,Cycling
+2020-05-07,Cars,2,45,Cars
+2020-05-07,Light Commercial Vehicles,2,56.00000000000001,Logistics
+2020-05-07,Heavy Goods Vehicles,2,71,Logistics
+2020-05-07,All motor vehicles,2,49,All motor vehicles
+2020-05-07,National Rail,"3,4",5,Other public
+2020-05-07,TfL Tube,5,5,London public
+2020-05-07,TfL Bus,"5,7",0,London public
+2020-05-07,Bus excl. London,"6,8,9",13,Other public
+2020-05-07,Cycling,"10,11",224.00000000000003,Cycling
+2020-05-08,Cars,2,33,Cars
+2020-05-08,Light Commercial Vehicles,2,33,Logistics
+2020-05-08,Heavy Goods Vehicles,2,35,Logistics
+2020-05-08,All motor vehicles,2,34,All motor vehicles
+2020-05-08,National Rail,"3,4",5,Other public
+2020-05-08,TfL Tube,5,7.000000000000001,London public
+2020-05-08,TfL Bus,"5,7",0,London public
+2020-05-08,Bus excl. London,"6,8,9",0,Other public
+2020-05-08,Cycling,"10,11",236,Cycling
+2020-05-09,Cars,2,39,Cars
+2020-05-09,Light Commercial Vehicles,2,46,Logistics
+2020-05-09,Heavy Goods Vehicles,2,65,Logistics
+2020-05-09,All motor vehicles,2,41,All motor vehicles
+2020-05-09,National Rail,"3,4",5,Other public
+2020-05-09,TfL Tube,5,5,London public
+2020-05-09,TfL Bus,"5,7",0,London public
+2020-05-09,Bus excl. London,"6,8,9",13,Other public
+2020-05-09,Cycling,"10,11",384,Cycling
+2020-05-10,Cars,2,35,Cars
+2020-05-10,Light Commercial Vehicles,2,44,Logistics
+2020-05-10,Heavy Goods Vehicles,2,77,Logistics
+2020-05-10,All motor vehicles,2,37,All motor vehicles
+2020-05-10,National Rail,"3,4",5,Other public
+2020-05-10,TfL Tube,5,4,London public
+2020-05-10,TfL Bus,"5,7",0,London public
+2020-05-10,Bus excl. London,"6,8,9",13,Other public
+2020-05-10,Cycling,"10,11",150,Cycling
+2020-05-11,Cars,2,45,Cars
+2020-05-11,Light Commercial Vehicles,2,57.99999999999999,Logistics
+2020-05-11,Heavy Goods Vehicles,2,74,Logistics
+2020-05-11,All motor vehicles,2,49,All motor vehicles
+2020-05-11,National Rail,"3,4",5,Other public
+2020-05-11,TfL Tube,5,6,London public
+2020-05-11,TfL Bus,"5,7",0,London public
+2020-05-11,Bus excl. London,"6,8,9",12,Other public
+2020-05-11,Cycling,"10,11",100,Cycling
+2020-05-12,Cars,2,45,Cars
+2020-05-12,Light Commercial Vehicles,2,59,Logistics
+2020-05-12,Heavy Goods Vehicles,2,75,Logistics
+2020-05-12,All motor vehicles,2,50,All motor vehicles
+2020-05-12,National Rail,"3,4",5,Other public
+2020-05-12,TfL Tube,5,6,London public
+2020-05-12,TfL Bus,"5,7",0,London public
+2020-05-12,Bus excl. London,"6,8,9",13,Other public
+2020-05-12,Cycling,"10,11",143,Cycling
+2020-05-13,Cars,2,48,Cars
+2020-05-13,Light Commercial Vehicles,2,61,Logistics
+2020-05-13,Heavy Goods Vehicles,2,76,Logistics
+2020-05-13,All motor vehicles,2,53,All motor vehicles
+2020-05-13,National Rail,"3,4",5,Other public
+2020-05-13,TfL Tube,5,6,London public
+2020-05-13,TfL Bus,"5,7",0,London public
+2020-05-13,Bus excl. London,"6,8,9",12,Other public
+2020-05-13,Cycling,"10,11",152,Cycling
+2020-05-14,Cars,2,50,Cars
+2020-05-14,Light Commercial Vehicles,2,60,Logistics
+2020-05-14,Heavy Goods Vehicles,2,75,Logistics
+2020-05-14,All motor vehicles,2,54,All motor vehicles
+2020-05-14,National Rail,"3,4",5,Other public
+2020-05-14,TfL Tube,5,6,London public
+2020-05-14,TfL Bus,"5,7",0,London public
+2020-05-14,Bus excl. London,"6,8,9",13,Other public
+2020-05-14,Cycling,"10,11",209,Cycling
+2020-05-15,Cars,2,51,Cars
+2020-05-15,Light Commercial Vehicles,2,61,Logistics
+2020-05-15,Heavy Goods Vehicles,2,74,Logistics
+2020-05-15,All motor vehicles,2,55.00000000000001,All motor vehicles
+2020-05-15,National Rail,"3,4",6,Other public
+2020-05-15,TfL Tube,5,6,London public
+2020-05-15,TfL Bus,"5,7",0,London public
+2020-05-15,Bus excl. London,"6,8,9",13,Other public
+2020-05-15,Cycling,"10,11",175,Cycling
+2020-05-16,Cars,2,52,Cars
+2020-05-16,Light Commercial Vehicles,2,64,Logistics
+2020-05-16,Heavy Goods Vehicles,2,80,Logistics
+2020-05-16,All motor vehicles,2,56.00000000000001,All motor vehicles
+2020-05-16,National Rail,"3,4",6,Other public
+2020-05-16,TfL Tube,5,5,London public
+2020-05-16,TfL Bus,"5,7",0,London public
+2020-05-16,Bus excl. London,"6,8,9",13,Other public
+2020-05-16,Cycling,"10,11",316,Cycling
+2020-05-17,Cars,2,50,Cars
+2020-05-17,Light Commercial Vehicles,2,63,Logistics
+2020-05-17,Heavy Goods Vehicles,2,84,Logistics
+2020-05-17,All motor vehicles,2,54,All motor vehicles
+2020-05-17,National Rail,"3,4",6,Other public
+2020-05-17,TfL Tube,5,5,London public
+2020-05-17,TfL Bus,"5,7",0,London public
+2020-05-17,Bus excl. London,"6,8,9",15,Other public
+2020-05-17,Cycling,"10,11",311,Cycling
+2020-05-18,Cars,2,53,Cars
+2020-05-18,Light Commercial Vehicles,2,67,Logistics
+2020-05-18,Heavy Goods Vehicles,2,79,Logistics
+2020-05-18,All motor vehicles,2,57.99999999999999,All motor vehicles
+2020-05-18,National Rail,"3,4",6,Other public
+2020-05-18,TfL Tube,5,7.000000000000001,London public
+2020-05-18,TfL Bus,"5,7",0,London public
+2020-05-18,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-05-18,Cycling,"10,11",164,Cycling
+2020-05-19,Cars,2,54,Cars
+2020-05-19,Light Commercial Vehicles,2,67,Logistics
+2020-05-19,Heavy Goods Vehicles,2,79,Logistics
+2020-05-19,All motor vehicles,2,57.99999999999999,All motor vehicles
+2020-05-19,National Rail,"3,4",7.000000000000001,Other public
+2020-05-19,TfL Tube,5,7.000000000000001,London public
+2020-05-19,TfL Bus,"5,7",0,London public
+2020-05-19,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-05-19,Cycling,"10,11",167,Cycling
+2020-05-20,Cars,2,56.00000000000001,Cars
+2020-05-20,Light Commercial Vehicles,2,67,Logistics
+2020-05-20,Heavy Goods Vehicles,2,80,Logistics
+2020-05-20,All motor vehicles,2,60,All motor vehicles
+2020-05-20,National Rail,"3,4",7.000000000000001,Other public
+2020-05-20,TfL Tube,5,7.000000000000001,London public
+2020-05-20,TfL Bus,"5,7",0,London public
+2020-05-20,Bus excl. London,"6,8,9",13,Other public
+2020-05-20,Cycling,"10,11",231.99999999999997,Cycling
+2020-05-21,Cars,2,54,Cars
+2020-05-21,Light Commercial Vehicles,2,66,Logistics
+2020-05-21,Heavy Goods Vehicles,2,80,Logistics
+2020-05-21,All motor vehicles,2,59,All motor vehicles
+2020-05-21,National Rail,"3,4",7.000000000000001,Other public
+2020-05-21,TfL Tube,5,7.000000000000001,London public
+2020-05-21,TfL Bus,"5,7",0,London public
+2020-05-21,Bus excl. London,"6,8,9",13,Other public
+2020-05-21,Cycling,"10,11",223,Cycling
+2020-05-22,Cars,2,56.00000000000001,Cars
+2020-05-22,Light Commercial Vehicles,2,67,Logistics
+2020-05-22,Heavy Goods Vehicles,2,79,Logistics
+2020-05-22,All motor vehicles,2,59,All motor vehicles
+2020-05-22,National Rail,"3,4",7.000000000000001,Other public
+2020-05-22,TfL Tube,5,8,London public
+2020-05-22,TfL Bus,"5,7",0,London public
+2020-05-22,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-05-22,Cycling,"10,11",121,Cycling
+2020-05-23,Cars,2,55.00000000000001,Cars
+2020-05-23,Light Commercial Vehicles,2,68,Logistics
+2020-05-23,Heavy Goods Vehicles,2,84,Logistics
+2020-05-23,All motor vehicles,2,57.99999999999999,All motor vehicles
+2020-05-23,National Rail,"3,4",7.000000000000001,Other public
+2020-05-23,TfL Tube,5,6,London public
+2020-05-23,TfL Bus,"5,7",0,London public
+2020-05-23,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-05-23,Cycling,"10,11",162,Cycling
+2020-05-24,Cars,2,55.00000000000001,Cars
+2020-05-24,Light Commercial Vehicles,2,67,Logistics
+2020-05-24,Heavy Goods Vehicles,2,80,Logistics
+2020-05-24,All motor vehicles,2,57.99999999999999,All motor vehicles
+2020-05-24,National Rail,"3,4",7.000000000000001,Other public
+2020-05-24,TfL Tube,5,6,London public
+2020-05-24,TfL Bus,"5,7",0,London public
+2020-05-24,Bus excl. London,"6,8,9",16,Other public
+2020-05-24,Cycling,"10,11",263,Cycling
+2020-05-25,Cars,2,50,Cars
+2020-05-25,Light Commercial Vehicles,2,46,Logistics
+2020-05-25,Heavy Goods Vehicles,2,34,Logistics
+2020-05-25,All motor vehicles,2,50,All motor vehicles
+2020-05-25,National Rail,"3,4",7.000000000000001,Other public
+2020-05-25,TfL Tube,5,9,London public
+2020-05-25,TfL Bus,"5,7",0,London public
+2020-05-25,Bus excl. London,"6,8,9",19,Other public
+2020-05-25,Cycling,"10,11",282,Cycling
+2020-05-26,Cars,2,59,Cars
+2020-05-26,Light Commercial Vehicles,2,73,Logistics
+2020-05-26,Heavy Goods Vehicles,2,81,Logistics
+2020-05-26,All motor vehicles,2,63,All motor vehicles
+2020-05-26,National Rail,"3,4",7.000000000000001,Other public
+2020-05-26,TfL Tube,5,9,London public
+2020-05-26,TfL Bus,"5,7",0,London public
+2020-05-26,Bus excl. London,"6,8,9",15,Other public
+2020-05-26,Cycling,"10,11",166,Cycling
+2020-05-27,Cars,2,59,Cars
+2020-05-27,Light Commercial Vehicles,2,72,Logistics
+2020-05-27,Heavy Goods Vehicles,2,84,Logistics
+2020-05-27,All motor vehicles,2,63,All motor vehicles
+2020-05-27,National Rail,"3,4",7.000000000000001,Other public
+2020-05-27,TfL Tube,5,8,London public
+2020-05-27,TfL Bus,"5,7",0,London public
+2020-05-27,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-05-27,Cycling,"10,11",225,Cycling
+2020-05-28,Cars,2,59,Cars
+2020-05-28,Light Commercial Vehicles,2,71,Logistics
+2020-05-28,Heavy Goods Vehicles,2,83,Logistics
+2020-05-28,All motor vehicles,2,64,All motor vehicles
+2020-05-28,National Rail,"3,4",7.000000000000001,Other public
+2020-05-28,TfL Tube,5,9,London public
+2020-05-28,TfL Bus,"5,7",0,London public
+2020-05-28,Bus excl. London,"6,8,9",14.000000000000002,Other public
+2020-05-28,Cycling,"10,11",235,Cycling
+2020-05-29,Cars,2,62,Cars
+2020-05-29,Light Commercial Vehicles,2,72,Logistics
+2020-05-29,Heavy Goods Vehicles,2,83,Logistics
+2020-05-29,All motor vehicles,2,66,All motor vehicles
+2020-05-29,National Rail,"3,4",8,Other public
+2020-05-29,TfL Tube,5,9,London public
+2020-05-29,TfL Bus,"5,7",0,London public
+2020-05-29,Bus excl. London,"6,8,9",15,Other public
+2020-05-29,Cycling,"10,11",197,Cycling
+2020-05-30,Cars,2,66,Cars
+2020-05-30,Light Commercial Vehicles,2,77,Logistics
+2020-05-30,Heavy Goods Vehicles,2,92,Logistics
+2020-05-30,All motor vehicles,2,69,All motor vehicles
+2020-05-30,National Rail,"3,4",8,Other public
+2020-05-30,TfL Tube,5,8,London public
+2020-05-30,TfL Bus,"5,7",0,London public
+2020-05-30,Bus excl. London,"6,8,9",16,Other public
+2020-05-30,Cycling,"10,11",323,Cycling
+2020-05-31,Cars,2,67,Cars
+2020-05-31,Light Commercial Vehicles,2,79,Logistics
+2020-05-31,Heavy Goods Vehicles,2,94,Logistics
+2020-05-31,All motor vehicles,2,71,All motor vehicles
+2020-05-31,National Rail,"3,4",8,Other public
+2020-05-31,TfL Tube,5,9,London public
+2020-05-31,TfL Bus,"5,7",0,London public
+2020-05-31,Bus excl. London,"6,8,9",19,Other public
+2020-05-31,Cycling,"10,11",320,Cycling
+2020-06-01,Cars,2,65,Cars
+2020-06-01,Light Commercial Vehicles,2,78,Logistics
+2020-06-01,Heavy Goods Vehicles,2,87,Logistics
+2020-06-01,All motor vehicles,2,69,All motor vehicles
+2020-06-01,National Rail,"3,4",8,Other public
+2020-06-01,TfL Tube,5,10,London public
+2020-06-01,TfL Bus,"5,7",0,London public
+2020-06-01,Bus excl. London,"6,8,9",17,Other public
+2020-06-01,Cycling,"10,11",182,Cycling
+2020-06-02,Cars,2,65,Cars
+2020-06-02,Light Commercial Vehicles,2,78,Logistics
+2020-06-02,Heavy Goods Vehicles,2,84,Logistics
+2020-06-02,All motor vehicles,2,69,All motor vehicles
+2020-06-02,National Rail,"3,4",9,Other public
+2020-06-02,TfL Tube,5,10,London public
+2020-06-02,TfL Bus,"5,7",0,London public
+2020-06-02,Bus excl. London,"6,8,9",18,Other public
+2020-06-02,Cycling,"10,11",182,Cycling
+2020-06-03,Cars,2,59,Cars
+2020-06-03,Light Commercial Vehicles,2,74,Logistics
+2020-06-03,Heavy Goods Vehicles,2,85,Logistics
+2020-06-03,All motor vehicles,2,63,All motor vehicles
+2020-06-03,National Rail,"3,4",10,Other public
+2020-06-03,TfL Tube,5,10,London public
+2020-06-03,TfL Bus,"5,7",0,London public
+2020-06-03,Bus excl. London,"6,8,9",16,Other public
+2020-06-03,Cycling,"10,11",118,Cycling
+2020-06-04,Cars,2,60,Cars
+2020-06-04,Light Commercial Vehicles,2,73,Logistics
+2020-06-04,Heavy Goods Vehicles,2,85,Logistics
+2020-06-04,All motor vehicles,2,64,All motor vehicles
+2020-06-04,National Rail,"3,4",10,Other public
+2020-06-04,TfL Tube,5,10,London public
+2020-06-04,TfL Bus,"5,7",0,London public
+2020-06-04,Bus excl. London,"6,8,9",17,Other public
+2020-06-04,Cycling,"10,11",169,Cycling
+2020-06-05,Cars,2,62,Cars
+2020-06-05,Light Commercial Vehicles,2,74,Logistics
+2020-06-05,Heavy Goods Vehicles,2,85,Logistics
+2020-06-05,All motor vehicles,2,66,All motor vehicles
+2020-06-05,National Rail,"3,4",11,Other public
+2020-06-05,TfL Tube,5,10,London public
+2020-06-05,TfL Bus,"5,7",0,London public
+2020-06-05,Bus excl. London,"6,8,9",17,Other public
+2020-06-05,Cycling,"10,11",113.99999999999999,Cycling
+2020-06-06,Cars,2,63,Cars
+2020-06-06,Light Commercial Vehicles,2,76,Logistics
+2020-06-06,Heavy Goods Vehicles,2,90,Logistics
+2020-06-06,All motor vehicles,2,66,All motor vehicles
+2020-06-06,National Rail,"3,4",11,Other public
+2020-06-06,TfL Tube,5,10,London public
+2020-06-06,TfL Bus,"5,7",0,London public
+2020-06-06,Bus excl. London,"6,8,9",16,Other public
+2020-06-06,Cycling,"10,11",125,Cycling
+2020-06-07,Cars,2,63,Cars
+2020-06-07,Light Commercial Vehicles,2,76,Logistics
+2020-06-07,Heavy Goods Vehicles,2,93,Logistics
+2020-06-07,All motor vehicles,2,66,All motor vehicles
+2020-06-07,National Rail,"3,4",12,Other public
+2020-06-07,TfL Tube,5,11,London public
+2020-06-07,TfL Bus,"5,7",0,London public
+2020-06-07,Bus excl. London,"6,8,9",19,Other public
+2020-06-07,Cycling,"10,11",222.00000000000003,Cycling
+2020-06-08,Cars,2,63,Cars
+2020-06-08,Light Commercial Vehicles,2,78,Logistics
+2020-06-08,Heavy Goods Vehicles,2,87,Logistics
+2020-06-08,All motor vehicles,2,68,All motor vehicles
+2020-06-08,National Rail,"3,4",13,Other public
+2020-06-08,TfL Tube,5,11,London public
+2020-06-08,TfL Bus,"5,7",0,London public
+2020-06-08,Bus excl. London,"6,8,9",18,Other public
+2020-06-08,Cycling,"10,11",164,Cycling
+2020-06-09,Cars,2,64,Cars
+2020-06-09,Light Commercial Vehicles,2,79,Logistics
+2020-06-09,Heavy Goods Vehicles,2,88,Logistics
+2020-06-09,All motor vehicles,2,69,All motor vehicles
+2020-06-09,National Rail,"3,4",13,Other public
+2020-06-09,TfL Tube,5,11,London public
+2020-06-09,TfL Bus,"5,7",25,London public
+2020-06-09,Bus excl. London,"6,8,9",19,Other public
+2020-06-09,Cycling,"10,11",168,Cycling
+2020-06-10,Cars,2,61,Cars
+2020-06-10,Light Commercial Vehicles,2,77,Logistics
+2020-06-10,Heavy Goods Vehicles,2,88,Logistics
+2020-06-10,All motor vehicles,2,66,All motor vehicles
+2020-06-10,National Rail,"3,4",12,Other public
+2020-06-10,TfL Tube,5,11,London public
+2020-06-10,TfL Bus,"5,7",25,London public
+2020-06-10,Bus excl. London,"6,8,9",17,Other public
+2020-06-10,Cycling,"10,11",125,Cycling
+2020-06-11,Cars,2,61,Cars
+2020-06-11,Light Commercial Vehicles,2,75,Logistics
+2020-06-11,Heavy Goods Vehicles,2,88,Logistics
+2020-06-11,All motor vehicles,2,66,All motor vehicles
+2020-06-11,National Rail,"3,4",12,Other public
+2020-06-11,TfL Tube,5,11,London public
+2020-06-11,TfL Bus,"5,7",26,London public
+2020-06-11,Bus excl. London,"6,8,9",17,Other public
+2020-06-11,Cycling,"10,11",124,Cycling
+2020-06-12,Cars,2,64,Cars
+2020-06-12,Light Commercial Vehicles,2,76,Logistics
+2020-06-12,Heavy Goods Vehicles,2,87,Logistics
+2020-06-12,All motor vehicles,2,67,All motor vehicles
+2020-06-12,National Rail,"3,4",12,Other public
+2020-06-12,TfL Tube,5,11,London public
+2020-06-12,TfL Bus,"5,7",26,London public
+2020-06-12,Bus excl. London,"6,8,9",18,Other public
+2020-06-12,Cycling,"10,11",112.99999999999999,Cycling
+2020-06-13,Cars,2,73,Cars
+2020-06-13,Light Commercial Vehicles,2,85,Logistics
+2020-06-13,Heavy Goods Vehicles,2,93,Logistics
+2020-06-13,All motor vehicles,2,76,All motor vehicles
+2020-06-13,National Rail,"3,4",13,Other public
+2020-06-13,TfL Tube,5,12,London public
+2020-06-13,TfL Bus,"5,7",31,London public
+2020-06-13,Bus excl. London,"6,8,9",19,Other public
+2020-06-13,Cycling,"10,11",286,Cycling
+2020-06-14,Cars,2,74,Cars
+2020-06-14,Light Commercial Vehicles,2,86,Logistics
+2020-06-14,Heavy Goods Vehicles,2,97,Logistics
+2020-06-14,All motor vehicles,2,77,All motor vehicles
+2020-06-14,National Rail,"3,4",12,Other public
+2020-06-14,TfL Tube,5,11,London public
+2020-06-14,TfL Bus,"5,7",30,London public
+2020-06-14,Bus excl. London,"6,8,9",21,Other public
+2020-06-14,Cycling,"10,11",303,Cycling
+2020-06-15,Cars,2,70,Cars
+2020-06-15,Light Commercial Vehicles,2,84,Logistics
+2020-06-15,Heavy Goods Vehicles,2,92,Logistics
+2020-06-15,All motor vehicles,2,74,All motor vehicles
+2020-06-15,National Rail,"3,4",12,Other public
+2020-06-15,TfL Tube,5,14.000000000000002,London public
+2020-06-15,TfL Bus,"5,7",32,London public
+2020-06-15,Bus excl. London,"6,8,9",21,Other public
+2020-06-15,Cycling,"10,11",168,Cycling
+2020-06-16,Cars,2,68,Cars
+2020-06-16,Light Commercial Vehicles,2,82,Logistics
+2020-06-16,Heavy Goods Vehicles,2,91,Logistics
+2020-06-16,All motor vehicles,2,72,All motor vehicles
+2020-06-16,National Rail,"3,4",13,Other public
+2020-06-16,TfL Tube,5,13,London public
+2020-06-16,TfL Bus,"5,7",31,London public
+2020-06-16,Bus excl. London,"6,8,9",21,Other public
+2020-06-16,Cycling,"10,11",145,Cycling
+2020-06-17,Cars,2,67,Cars
+2020-06-17,Light Commercial Vehicles,2,81,Logistics
+2020-06-17,Heavy Goods Vehicles,2,92,Logistics
+2020-06-17,All motor vehicles,2,72,All motor vehicles
+2020-06-17,National Rail,"3,4",13,Other public
+2020-06-17,TfL Tube,5,13,London public
+2020-06-17,TfL Bus,"5,7",30,London public
+2020-06-17,Bus excl. London,"6,8,9",20,Other public
+2020-06-17,Cycling,"10,11",167,Cycling
+2020-06-18,Cars,2,65,Cars
+2020-06-18,Light Commercial Vehicles,2,79,Logistics
+2020-06-18,Heavy Goods Vehicles,2,89,Logistics
+2020-06-18,All motor vehicles,2,69,All motor vehicles
+2020-06-18,National Rail,"3,4",14.000000000000002,Other public
+2020-06-18,TfL Tube,5,13,London public
+2020-06-18,TfL Bus,"5,7",28.999999999999996,London public
+2020-06-18,Bus excl. London,"6,8,9",19,Other public
+2020-06-18,Cycling,"10,11",95,Cycling
+2020-06-19,Cars,2,70,Cars
+2020-06-19,Light Commercial Vehicles,2,82,Logistics
+2020-06-19,Heavy Goods Vehicles,2,90,Logistics
+2020-06-19,All motor vehicles,2,74,All motor vehicles
+2020-06-19,National Rail,"3,4",14.000000000000002,Other public
+2020-06-19,TfL Tube,5,14.000000000000002,London public
+2020-06-19,TfL Bus,"5,7",28.999999999999996,London public
+2020-06-19,Bus excl. London,"6,8,9",21,Other public
+2020-06-19,Cycling,"10,11",117,Cycling
+2020-06-20,Cars,2,83,Cars
+2020-06-20,Light Commercial Vehicles,2,93,Logistics
+2020-06-20,Heavy Goods Vehicles,2,97,Logistics
+2020-06-20,All motor vehicles,2,86,All motor vehicles
+2020-06-20,National Rail,"3,4",15,Other public
+2020-06-20,TfL Tube,5,15,London public
+2020-06-20,TfL Bus,"5,7",36,London public
+2020-06-20,Bus excl. London,"6,8,9",24,Other public
+2020-06-20,Cycling,"10,11",286,Cycling
+2020-06-21,Cars,2,81,Cars
+2020-06-21,Light Commercial Vehicles,2,90,Logistics
+2020-06-21,Heavy Goods Vehicles,2,95,Logistics
+2020-06-21,All motor vehicles,2,83,All motor vehicles
+2020-06-21,National Rail,"3,4",15,Other public
+2020-06-21,TfL Tube,5,13,London public
+2020-06-21,TfL Bus,"5,7",34,London public
+2020-06-21,Bus excl. London,"6,8,9",24,Other public
+2020-06-21,Cycling,"10,11",186,Cycling
+2020-06-22,Cars,2,72,Cars
+2020-06-22,Light Commercial Vehicles,2,87,Logistics
+2020-06-22,Heavy Goods Vehicles,2,93,Logistics
+2020-06-22,All motor vehicles,2,77,All motor vehicles
+2020-06-22,National Rail,"3,4",15,Other public
+2020-06-22,TfL Tube,5,16,London public
+2020-06-22,TfL Bus,"5,7",34,London public
+2020-06-22,Bus excl. London,"6,8,9",23,Other public
+2020-06-22,Cycling,"10,11",178,Cycling
+2020-06-23,Cars,2,74,Cars
+2020-06-23,Light Commercial Vehicles,2,87,Logistics
+2020-06-23,Heavy Goods Vehicles,2,94,Logistics
+2020-06-23,All motor vehicles,2,78,All motor vehicles
+2020-06-23,National Rail,"3,4",15,Other public
+2020-06-23,TfL Tube,5,15,London public
+2020-06-23,TfL Bus,"5,7",34,London public
+2020-06-23,Bus excl. London,"6,8,9",23,Other public
+2020-06-23,Cycling,"10,11",180,Cycling
+2020-06-24,Cars,2,76,Cars
+2020-06-24,Light Commercial Vehicles,2,88,Logistics
+2020-06-24,Heavy Goods Vehicles,2,94,Logistics
+2020-06-24,All motor vehicles,2,80,All motor vehicles
+2020-06-24,National Rail,"3,4",16,Other public
+2020-06-24,TfL Tube,5,15,London public
+2020-06-24,TfL Bus,"5,7",34,London public
+2020-06-24,Bus excl. London,"6,8,9",22,Other public
+2020-06-24,Cycling,"10,11",200.99999999999997,Cycling
+2020-06-25,Cars,2,76,Cars
+2020-06-25,Light Commercial Vehicles,2,86,Logistics
+2020-06-25,Heavy Goods Vehicles,2,92,Logistics
+2020-06-25,All motor vehicles,2,80,All motor vehicles
+2020-06-25,National Rail,"3,4",16,Other public
+2020-06-25,TfL Tube,5,15,London public
+2020-06-25,TfL Bus,"5,7",34,London public
+2020-06-25,Bus excl. London,"6,8,9",23,Other public
+2020-06-25,Cycling,"10,11",243.00000000000003,Cycling
+2020-06-26,Cars,2,74,Cars
+2020-06-26,Light Commercial Vehicles,2,85,Logistics
+2020-06-26,Heavy Goods Vehicles,2,91,Logistics
+2020-06-26,All motor vehicles,2,78,All motor vehicles
+2020-06-26,National Rail,"3,4",17,Other public
+2020-06-26,TfL Tube,5,15,London public
+2020-06-26,TfL Bus,"5,7",35,London public
+2020-06-26,Bus excl. London,"6,8,9",22,Other public
+2020-06-26,Cycling,"10,11",146,Cycling
+2020-06-27,Cars,2,75,Cars
+2020-06-27,Light Commercial Vehicles,2,88,Logistics
+2020-06-27,Heavy Goods Vehicles,2,97,Logistics
+2020-06-27,All motor vehicles,2,78,All motor vehicles
+2020-06-27,National Rail,"3,4",16,Other public
+2020-06-27,TfL Tube,5,15,London public
+2020-06-27,TfL Bus,"5,7",36,London public
+2020-06-27,Bus excl. London,"6,8,9",23,Other public
+2020-06-27,Cycling,"10,11",127,Cycling
+2020-06-28,Cars,2,76,Cars
+2020-06-28,Light Commercial Vehicles,2,90,Logistics
+2020-06-28,Heavy Goods Vehicles,2,99,Logistics
+2020-06-28,All motor vehicles,2,79,All motor vehicles
+2020-06-28,National Rail,"3,4",17,Other public
+2020-06-28,TfL Tube,5,15,London public
+2020-06-28,TfL Bus,"5,7",36,London public
+2020-06-28,Bus excl. London,"6,8,9",26,Other public
+2020-06-28,Cycling,"10,11",180,Cycling
+2020-06-29,Cars,2,72,Cars
+2020-06-29,Light Commercial Vehicles,2,88,Logistics
+2020-06-29,Heavy Goods Vehicles,2,96,Logistics
+2020-06-29,All motor vehicles,2,77,All motor vehicles
+2020-06-29,National Rail,"3,4",16,Other public
+2020-06-29,TfL Tube,5,16,London public
+2020-06-29,TfL Bus,"5,7",33,London public
+2020-06-29,Bus excl. London,"6,8,9",24,Other public
+2020-06-29,Cycling,"10,11",93,Cycling
+2020-06-30,Cars,2,73,Cars
+2020-06-30,Light Commercial Vehicles,2,88,Logistics
+2020-06-30,Heavy Goods Vehicles,2,96,Logistics
+2020-06-30,All motor vehicles,2,77,All motor vehicles
+2020-06-30,National Rail,"3,4",17,Other public
+2020-06-30,TfL Tube,5,16,London public
+2020-06-30,TfL Bus,"5,7",32,London public
+2020-06-30,Bus excl. London,"6,8,9",26,Other public
+2020-06-30,Cycling,"10,11",125,Cycling
+2020-07-01,Cars,2,73,Cars
+2020-07-01,Light Commercial Vehicles,2,88,Logistics
+2020-07-01,Heavy Goods Vehicles,2,97,Logistics
+2020-07-01,All motor vehicles,2,78,All motor vehicles
+2020-07-01,National Rail,"3,4",16,Other public
+2020-07-01,TfL Tube,5,16,London public
+2020-07-01,TfL Bus,"5,7",33,London public
+2020-07-01,Bus excl. London,"6,8,9",24,Other public
+2020-07-01,Cycling,"10,11",154,Cycling
+2020-07-02,Cars,2,73,Cars
+2020-07-02,Light Commercial Vehicles,2,86,Logistics
+2020-07-02,Heavy Goods Vehicles,2,96,Logistics
+2020-07-02,All motor vehicles,2,77,All motor vehicles
+2020-07-02,National Rail,"3,4",16,Other public
+2020-07-02,TfL Tube,5,16,London public
+2020-07-02,TfL Bus,"5,7",33,London public
+2020-07-02,Bus excl. London,"6,8,9",25,Other public
+2020-07-02,Cycling,"10,11",155,Cycling
+2020-07-03,Cars,2,75,Cars
+2020-07-03,Light Commercial Vehicles,2,87,Logistics
+2020-07-03,Heavy Goods Vehicles,2,96,Logistics
+2020-07-03,All motor vehicles,2,79,All motor vehicles
+2020-07-03,National Rail,"3,4",17,Other public
+2020-07-03,TfL Tube,5,20,London public
+2020-07-03,TfL Bus,"5,7",35,London public
+2020-07-03,Bus excl. London,"6,8,9",25,Other public
+2020-07-03,Cycling,"10,11",113.99999999999999,Cycling
+2020-07-04,Cars,2,82,Cars
+2020-07-04,Light Commercial Vehicles,2,95,Logistics
+2020-07-04,Heavy Goods Vehicles,2,101,Logistics
+2020-07-04,All motor vehicles,2,84,All motor vehicles
+2020-07-04,National Rail,"3,4",17,Other public
+2020-07-04,TfL Tube,5,18,London public
+2020-07-04,TfL Bus,"5,7",39,London public
+2020-07-04,Bus excl. London,"6,8,9",28.999999999999996,Other public
+2020-07-04,Cycling,"10,11",178,Cycling
+2020-07-05,Cars,2,84,Cars
+2020-07-05,Light Commercial Vehicles,2,98,Logistics
+2020-07-05,Heavy Goods Vehicles,2,105,Logistics
+2020-07-05,All motor vehicles,2,87,All motor vehicles
+2020-07-05,National Rail,"3,4",18,Other public
+2020-07-05,TfL Tube,5,20,London public
+2020-07-05,TfL Bus,"5,7",40,London public
+2020-07-05,Bus excl. London,"6,8,9",32,Other public
+2020-07-05,Cycling,"10,11",175,Cycling
+2020-07-06,Cars,2,79,Cars
+2020-07-06,Light Commercial Vehicles,2,93,Logistics
+2020-07-06,Heavy Goods Vehicles,2,97,Logistics
+2020-07-06,All motor vehicles,2,83,All motor vehicles
+2020-07-06,National Rail,"3,4",19,Other public
+2020-07-06,TfL Tube,5,19,London public
+2020-07-06,TfL Bus,"5,7",37,London public
+2020-07-06,Bus excl. London,"6,8,9",28.999999999999996,Other public
+2020-07-06,Cycling,"10,11",138,Cycling
+2020-07-07,Cars,2,76,Cars
+2020-07-07,Light Commercial Vehicles,2,91,Logistics
+2020-07-07,Heavy Goods Vehicles,2,97,Logistics
+2020-07-07,All motor vehicles,2,80,All motor vehicles
+2020-07-07,National Rail,"3,4",19,Other public
+2020-07-07,TfL Tube,5,19,London public
+2020-07-07,TfL Bus,"5,7",37,London public
+2020-07-07,Bus excl. London,"6,8,9",28.999999999999996,Other public
+2020-07-07,Cycling,"10,11",109.00000000000001,Cycling
+2020-07-08,Cars,2,75,Cars
+2020-07-08,Light Commercial Vehicles,2,89,Logistics
+2020-07-08,Heavy Goods Vehicles,2,97,Logistics
+2020-07-08,All motor vehicles,2,79,All motor vehicles
+2020-07-08,National Rail,"3,4",20,Other public
+2020-07-08,TfL Tube,5,19,London public
+2020-07-08,TfL Bus,"5,7",36,London public
+2020-07-08,Bus excl. London,"6,8,9",28.000000000000004,Other public
+2020-07-08,Cycling,"10,11",100,Cycling
+2020-07-09,Cars,2,76,Cars
+2020-07-09,Light Commercial Vehicles,2,89,Logistics
+2020-07-09,Heavy Goods Vehicles,2,96,Logistics
+2020-07-09,All motor vehicles,2,80,All motor vehicles
+2020-07-09,National Rail,"3,4",21,Other public
+2020-07-09,TfL Tube,5,19,London public
+2020-07-09,TfL Bus,"5,7",37,London public
+2020-07-09,Bus excl. London,"6,8,9",28.000000000000004,Other public
+2020-07-09,Cycling,"10,11",112.00000000000001,Cycling
+2020-07-10,Cars,2,83,Cars
+2020-07-10,Light Commercial Vehicles,2,93,Logistics
+2020-07-10,Heavy Goods Vehicles,2,96,Logistics
+2020-07-10,All motor vehicles,2,86,All motor vehicles
+2020-07-10,National Rail,"3,4",21,Other public
+2020-07-10,TfL Tube,5,21,London public
+2020-07-10,TfL Bus,"5,7",39,London public
+2020-07-10,Bus excl. London,"6,8,9",30,Other public
+2020-07-10,Cycling,"10,11",133,Cycling
+2020-07-11,Cars,2,90,Cars
+2020-07-11,Light Commercial Vehicles,2,101,Logistics
+2020-07-11,Heavy Goods Vehicles,2,104,Logistics
+2020-07-11,All motor vehicles,2,93,All motor vehicles
+2020-07-11,National Rail,"3,4",22,Other public
+2020-07-11,TfL Tube,5,24,London public
+2020-07-11,TfL Bus,"5,7",45,London public
+2020-07-11,Bus excl. London,"6,8,9",34,Other public
+2020-07-11,Cycling,"10,11",231.99999999999997,Cycling
+2020-07-12,Cars,2,95,Cars
+2020-07-12,Light Commercial Vehicles,2,108,Logistics
+2020-07-12,Heavy Goods Vehicles,2,111.00000000000001,Logistics
+2020-07-12,All motor vehicles,2,99,All motor vehicles
+2020-07-12,National Rail,"3,4",22,Other public
+2020-07-12,TfL Tube,5,24,London public
+2020-07-12,TfL Bus,"5,7",45,London public
+2020-07-12,Bus excl. London,"6,8,9",37,Other public
+2020-07-12,Cycling,"10,11",252,Cycling
+2020-07-13,Cars,2,80,Cars
+2020-07-13,Light Commercial Vehicles,2,94,Logistics
+2020-07-13,Heavy Goods Vehicles,2,98,Logistics
+2020-07-13,All motor vehicles,2,84,All motor vehicles
+2020-07-13,National Rail,"3,4",23,Other public
+2020-07-13,TfL Tube,5,21,London public
+2020-07-13,TfL Bus,"5,7",41,London public
+2020-07-13,Bus excl. London,"6,8,9",31,Other public
+2020-07-13,Cycling,"10,11",110.00000000000001,Cycling
+2020-07-14,Cars,2,79,Cars
+2020-07-14,Light Commercial Vehicles,2,93,Logistics
+2020-07-14,Heavy Goods Vehicles,2,98,Logistics
+2020-07-14,All motor vehicles,2,83,All motor vehicles
+2020-07-14,National Rail,"3,4",23,Other public
+2020-07-14,TfL Tube,5,20,London public
+2020-07-14,TfL Bus,"5,7",40,London public
+2020-07-14,Bus excl. London,"6,8,9",32,Other public
+2020-07-14,Cycling,"10,11",125,Cycling
+2020-07-15,Cars,2,79,Cars
+2020-07-15,Light Commercial Vehicles,2,93,Logistics
+2020-07-15,Heavy Goods Vehicles,2,98,Logistics
+2020-07-15,All motor vehicles,2,83,All motor vehicles
+2020-07-15,National Rail,"3,4",24,Other public
+2020-07-15,TfL Tube,5,21,London public
+2020-07-15,TfL Bus,"5,7",40,London public
+2020-07-15,Bus excl. London,"6,8,9",31,Other public
+2020-07-15,Cycling,"10,11",127,Cycling
+2020-07-16,Cars,2,81,Cars
+2020-07-16,Light Commercial Vehicles,2,92,Logistics
+2020-07-16,Heavy Goods Vehicles,2,98,Logistics
+2020-07-16,All motor vehicles,2,85,All motor vehicles
+2020-07-16,National Rail,"3,4",25,Other public
+2020-07-16,TfL Tube,5,21,London public
+2020-07-16,TfL Bus,"5,7",42,London public
+2020-07-16,Bus excl. London,"6,8,9",32,Other public
+2020-07-16,Cycling,"10,11",165,Cycling
+2020-07-17,Cars,2,86,Cars
+2020-07-17,Light Commercial Vehicles,2,94,Logistics
+2020-07-17,Heavy Goods Vehicles,2,97,Logistics
+2020-07-17,All motor vehicles,2,89,All motor vehicles
+2020-07-17,National Rail,"3,4",25,Other public
+2020-07-17,TfL Tube,5,24,London public
+2020-07-17,TfL Bus,"5,7",45,London public
+2020-07-17,Bus excl. London,"6,8,9",33,Other public
+2020-07-17,Cycling,"10,11",134,Cycling
+2020-07-18,Cars,2,91,Cars
+2020-07-18,Light Commercial Vehicles,2,103,Logistics
+2020-07-18,Heavy Goods Vehicles,2,104,Logistics
+2020-07-18,All motor vehicles,2,94,All motor vehicles
+2020-07-18,National Rail,"3,4",26,Other public
+2020-07-18,TfL Tube,5,28.999999999999996,London public
+2020-07-18,TfL Bus,"5,7",50,London public
+2020-07-18,Bus excl. London,"6,8,9",37,Other public
+2020-07-18,Cycling,"10,11",186,Cycling
+2020-07-19,Cars,2,95,Cars
+2020-07-19,Light Commercial Vehicles,2,109.00000000000001,Logistics
+2020-07-19,Heavy Goods Vehicles,2,111.00000000000001,Logistics
+2020-07-19,All motor vehicles,2,98,All motor vehicles
+2020-07-19,National Rail,"3,4",26,Other public
+2020-07-19,TfL Tube,5,24,London public
+2020-07-19,TfL Bus,"5,7",43,London public
+2020-07-19,Bus excl. London,"6,8,9",41,Other public
+2020-07-19,Cycling,"10,11",194,Cycling
+2020-07-20,Cars,2,85,Cars
+2020-07-20,Light Commercial Vehicles,2,97,Logistics
+2020-07-20,Heavy Goods Vehicles,2,99,Logistics
+2020-07-20,All motor vehicles,2,88,All motor vehicles
+2020-07-20,National Rail,"3,4",27,Other public
+2020-07-20,TfL Tube,5,23,London public
+2020-07-20,TfL Bus,"5,7",45,London public
+2020-07-20,Bus excl. London,"6,8,9",33,Other public
+2020-07-20,Cycling,"10,11",143,Cycling
+2020-07-21,Cars,2,83,Cars
+2020-07-21,Light Commercial Vehicles,2,95,Logistics
+2020-07-21,Heavy Goods Vehicles,2,98,Logistics
+2020-07-21,All motor vehicles,2,87,All motor vehicles
+2020-07-21,National Rail,"3,4",27,Other public
+2020-07-21,TfL Tube,5,23,London public
+2020-07-21,TfL Bus,"5,7",45,London public
+2020-07-21,Bus excl. London,"6,8,9",34,Other public
+2020-07-21,Cycling,"10,11",133,Cycling
+2020-07-22,Cars,2,82,Cars
+2020-07-22,Light Commercial Vehicles,2,94,Logistics
+2020-07-22,Heavy Goods Vehicles,2,98,Logistics
+2020-07-22,All motor vehicles,2,85,All motor vehicles
+2020-07-22,National Rail,"3,4",27,Other public
+2020-07-22,TfL Tube,5,23,London public
+2020-07-22,TfL Bus,"5,7",46,London public
+2020-07-22,Bus excl. London,"6,8,9",32,Other public
+2020-07-22,Cycling,"10,11",151,Cycling
+2020-07-23,Cars,2,81,Cars
+2020-07-23,Light Commercial Vehicles,2,91,Logistics
+2020-07-23,Heavy Goods Vehicles,2,95,Logistics
+2020-07-23,All motor vehicles,2,84,All motor vehicles
+2020-07-23,National Rail,"3,4",28.000000000000004,Other public
+2020-07-23,TfL Tube,5,25,London public
+2020-07-23,TfL Bus,"5,7",49,London public
+2020-07-23,Bus excl. London,"6,8,9",33,Other public
+2020-07-23,Cycling,"10,11",137,Cycling
+2020-07-24,Cars,2,88,Cars
+2020-07-24,Light Commercial Vehicles,2,96,Logistics
+2020-07-24,Heavy Goods Vehicles,2,97,Logistics
+2020-07-24,All motor vehicles,2,90,All motor vehicles
+2020-07-24,National Rail,"3,4",28.000000000000004,Other public
+2020-07-24,TfL Tube,5,25,London public
+2020-07-24,TfL Bus,"5,7",49,London public
+2020-07-24,Bus excl. London,"6,8,9",35,Other public
+2020-07-24,Cycling,"10,11",130,Cycling
+2020-07-25,Cars,2,90,Cars
+2020-07-25,Light Commercial Vehicles,2,102,Logistics
+2020-07-25,Heavy Goods Vehicles,2,105,Logistics
+2020-07-25,All motor vehicles,2,92,All motor vehicles
+2020-07-25,National Rail,"3,4",28.000000000000004,Other public
+2020-07-25,TfL Tube,5,28.000000000000004,London public
+2020-07-25,TfL Bus,"5,7",51,London public
+2020-07-25,Bus excl. London,"6,8,9",38,Other public
+2020-07-25,Cycling,"10,11",115.99999999999999,Cycling
+2020-07-26,Cars,2,96,Cars
+2020-07-26,Light Commercial Vehicles,2,111.00000000000001,Logistics
+2020-07-26,Heavy Goods Vehicles,2,112.00000000000001,Logistics
+2020-07-26,All motor vehicles,2,100,All motor vehicles
+2020-07-26,National Rail,"3,4",28.999999999999996,Other public
+2020-07-26,TfL Tube,5,28.000000000000004,London public
+2020-07-26,TfL Bus,"5,7",50,London public
+2020-07-26,Bus excl. London,"6,8,9",44,Other public
+2020-07-26,Cycling,"10,11",206.99999999999997,Cycling
+2020-07-27,Cars,2,80,Cars
+2020-07-27,Light Commercial Vehicles,2,93,Logistics
+2020-07-27,Heavy Goods Vehicles,2,96,Logistics
+2020-07-27,All motor vehicles,2,83,All motor vehicles
+2020-07-27,National Rail,"3,4",28.999999999999996,Other public
+2020-07-27,TfL Tube,5,24,London public
+2020-07-27,TfL Bus,"5,7",45,London public
+2020-07-27,Bus excl. London,"6,8,9",31,Other public
+2020-07-27,Cycling,"10,11",66,Cycling
+2020-07-28,Cars,2,82,Cars
+2020-07-28,Light Commercial Vehicles,2,95,Logistics
+2020-07-28,Heavy Goods Vehicles,2,97,Logistics
+2020-07-28,All motor vehicles,2,86,All motor vehicles
+2020-07-28,National Rail,"3,4",28.999999999999996,Other public
+2020-07-28,TfL Tube,5,25,London public
+2020-07-28,TfL Bus,"5,7",50,London public
+2020-07-28,Bus excl. London,"6,8,9",37,Other public
+2020-07-28,Cycling,"10,11",113.99999999999999,Cycling
+2020-07-29,Cars,2,84,Cars
+2020-07-29,Light Commercial Vehicles,2,94,Logistics
+2020-07-29,Heavy Goods Vehicles,2,96,Logistics
+2020-07-29,All motor vehicles,2,87,All motor vehicles
+2020-07-29,National Rail,"3,4",28.999999999999996,Other public
+2020-07-29,TfL Tube,5,25,London public
+2020-07-29,TfL Bus,"5,7",49,London public
+2020-07-29,Bus excl. London,"6,8,9",35,Other public
+2020-07-29,Cycling,"10,11",159,Cycling
+2020-07-30,Cars,2,86,Cars
+2020-07-30,Light Commercial Vehicles,2,94,Logistics
+2020-07-30,Heavy Goods Vehicles,2,96,Logistics
+2020-07-30,All motor vehicles,2,88,All motor vehicles
+2020-07-30,National Rail,"3,4",28.999999999999996,Other public
+2020-07-30,TfL Tube,5,26,London public
+2020-07-30,TfL Bus,"5,7",49,London public
+2020-07-30,Bus excl. London,"6,8,9",36,Other public
+2020-07-30,Cycling,"10,11",174,Cycling
+2020-07-31,Cars,2,92,Cars
+2020-07-31,Light Commercial Vehicles,2,97,Logistics
+2020-07-31,Heavy Goods Vehicles,2,95,Logistics
+2020-07-31,All motor vehicles,2,93,All motor vehicles
+2020-07-31,National Rail,"3,4",30,Other public
+2020-07-31,TfL Tube,5,27,London public
+2020-07-31,TfL Bus,"5,7",50,London public
+2020-07-31,Bus excl. London,"6,8,9",37,Other public
+2020-07-31,Cycling,"10,11",124,Cycling
+2020-08-01,Cars,2,97,Cars
+2020-08-01,Light Commercial Vehicles,2,107,Logistics
+2020-08-01,Heavy Goods Vehicles,2,106,Logistics
+2020-08-01,All motor vehicles,2,99,All motor vehicles
+2020-08-01,National Rail,"3,4",31,Other public
+2020-08-01,TfL Tube,5,31,London public
+2020-08-01,TfL Bus,"5,7",54,London public
+2020-08-01,Bus excl. London,"6,8,9",42,Other public
+2020-08-01,Cycling,"10,11",189,Cycling
+2020-08-02,Cars,2,99,Cars
+2020-08-02,Light Commercial Vehicles,2,113.99999999999999,Logistics
+2020-08-02,Heavy Goods Vehicles,2,113.99999999999999,Logistics
+2020-08-02,All motor vehicles,2,103,All motor vehicles
+2020-08-02,National Rail,"3,4",31,Other public
+2020-08-02,TfL Tube,5,28.000000000000004,London public
+2020-08-02,TfL Bus,"5,7",54,London public
+2020-08-02,Bus excl. London,"6,8,9",47,Other public
+2020-08-02,Cycling,"10,11",187,Cycling
+2020-08-03,Cars,2,88,Cars
+2020-08-03,Light Commercial Vehicles,2,98,Logistics
+2020-08-03,Heavy Goods Vehicles,2,97,Logistics
+2020-08-03,All motor vehicles,2,90,All motor vehicles
+2020-08-03,National Rail,"3,4",32,Other public
+2020-08-03,TfL Tube,5,27,London public
+2020-08-03,TfL Bus,"5,7",51,London public
+2020-08-03,Bus excl. London,"6,8,9",37,Other public
+2020-08-03,Cycling,"10,11",124,Cycling
+2020-08-04,Cars,2,83,Cars
+2020-08-04,Light Commercial Vehicles,2,95,Logistics
+2020-08-04,Heavy Goods Vehicles,2,98,Logistics
+2020-08-04,All motor vehicles,2,87,All motor vehicles
+2020-08-04,National Rail,"3,4",32,Other public
+2020-08-04,TfL Tube,5,27,London public
+2020-08-04,TfL Bus,"5,7",50,London public
+2020-08-04,Bus excl. London,"6,8,9",37,Other public
+2020-08-04,Cycling,"10,11",105,Cycling
+2020-08-05,Cars,2,84,Cars
+2020-08-05,Light Commercial Vehicles,2,96,Logistics
+2020-08-05,Heavy Goods Vehicles,2,98,Logistics
+2020-08-05,All motor vehicles,2,87,All motor vehicles
+2020-08-05,National Rail,"3,4",33,Other public
+2020-08-05,TfL Tube,5,28.000000000000004,London public
+2020-08-05,TfL Bus,"5,7",51,London public
+2020-08-05,Bus excl. London,"6,8,9",37,Other public
+2020-08-05,Cycling,"10,11",120,Cycling
+2020-08-06,Cars,2,85,Cars
+2020-08-06,Light Commercial Vehicles,2,93,Logistics
+2020-08-06,Heavy Goods Vehicles,2,96,Logistics
+2020-08-06,All motor vehicles,2,88,All motor vehicles
+2020-08-06,National Rail,"3,4",33,Other public
+2020-08-06,TfL Tube,5,27,London public
+2020-08-06,TfL Bus,"5,7",49,London public
+2020-08-06,Bus excl. London,"6,8,9",37,Other public
+2020-08-06,Cycling,"10,11",157,Cycling
+2020-08-07,Cars,2,89,Cars
+2020-08-07,Light Commercial Vehicles,2,96,Logistics
+2020-08-07,Heavy Goods Vehicles,2,96,Logistics
+2020-08-07,All motor vehicles,2,91,All motor vehicles
+2020-08-07,National Rail,"3,4",33,Other public
+2020-08-07,TfL Tube,5,28.000000000000004,London public
+2020-08-07,TfL Bus,"5,7",50,London public
+2020-08-07,Bus excl. London,"6,8,9",37,Other public
+2020-08-07,Cycling,"10,11",126,Cycling
+2020-08-08,Cars,2,98,Cars
+2020-08-08,Light Commercial Vehicles,2,108,Logistics
+2020-08-08,Heavy Goods Vehicles,2,108,Logistics
+2020-08-08,All motor vehicles,2,101,All motor vehicles
+2020-08-08,National Rail,"3,4",34,Other public
+2020-08-08,TfL Tube,5,32,London public
+2020-08-08,TfL Bus,"5,7",54,London public
+2020-08-08,Bus excl. London,"6,8,9",45,Other public
+2020-08-08,Cycling,"10,11",202,Cycling
+2020-08-09,Cars,2,101,Cars
+2020-08-09,Light Commercial Vehicles,2,114.99999999999999,Logistics
+2020-08-09,Heavy Goods Vehicles,2,115.99999999999999,Logistics
+2020-08-09,All motor vehicles,2,105,All motor vehicles
+2020-08-09,National Rail,"3,4",34,Other public
+2020-08-09,TfL Tube,5,31,London public
+2020-08-09,TfL Bus,"5,7",51,London public
+2020-08-09,Bus excl. London,"6,8,9",49,Other public
+2020-08-09,Cycling,"10,11",189,Cycling
+2020-08-10,Cars,2,90,Cars
+2020-08-10,Light Commercial Vehicles,2,100,Logistics
+2020-08-10,Heavy Goods Vehicles,2,100,Logistics
+2020-08-10,All motor vehicles,2,93,All motor vehicles
+2020-08-10,National Rail,"3,4",35,Other public
+2020-08-10,TfL Tube,5,28.000000000000004,London public
+2020-08-10,TfL Bus,"5,7",53,London public
+2020-08-10,Bus excl. London,"6,8,9",39,Other public
+2020-08-10,Cycling,"10,11",122,Cycling
+2020-08-11,Cars,2,86,Cars
+2020-08-11,Light Commercial Vehicles,2,97,Logistics
+2020-08-11,Heavy Goods Vehicles,2,99,Logistics
+2020-08-11,All motor vehicles,2,89,All motor vehicles
+2020-08-11,National Rail,"3,4",34,Other public
+2020-08-11,TfL Tube,5,28.000000000000004,London public
+2020-08-11,TfL Bus,"5,7",49,London public
+2020-08-11,Bus excl. London,"6,8,9",40,Other public
+2020-08-11,Cycling,"10,11",119,Cycling
+2020-08-12,Cars,2,86,Cars
+2020-08-12,Light Commercial Vehicles,2,97,Logistics
+2020-08-12,Heavy Goods Vehicles,2,99,Logistics
+2020-08-12,All motor vehicles,2,89,All motor vehicles
+2020-08-12,National Rail,"3,4",35,Other public
+2020-08-12,TfL Tube,5,28.000000000000004,London public
+2020-08-12,TfL Bus,"5,7",53,London public
+2020-08-12,Bus excl. London,"6,8,9",38,Other public
+2020-08-12,Cycling,"10,11",129,Cycling
+2020-08-13,Cars,2,85,Cars
+2020-08-13,Light Commercial Vehicles,2,94,Logistics
+2020-08-13,Heavy Goods Vehicles,2,98,Logistics
+2020-08-13,All motor vehicles,2,88,All motor vehicles
+2020-08-13,National Rail,"3,4",34,Other public
+2020-08-13,TfL Tube,5,26,London public
+2020-08-13,TfL Bus,"5,7",48,London public
+2020-08-13,Bus excl. London,"6,8,9",38,Other public
+2020-08-13,Cycling,"10,11",125,Cycling
+2020-08-14,Cars,2,89,Cars
+2020-08-14,Light Commercial Vehicles,2,97,Logistics
+2020-08-14,Heavy Goods Vehicles,2,98,Logistics
+2020-08-14,All motor vehicles,2,92,All motor vehicles
+2020-08-14,National Rail,"3,4",34,Other public
+2020-08-14,TfL Tube,5,28.999999999999996,London public
+2020-08-14,TfL Bus,"5,7",53,London public
+2020-08-14,Bus excl. London,"6,8,9",39,Other public
+2020-08-14,Cycling,"10,11",96,Cycling
+2020-08-15,Cars,2,96,Cars
+2020-08-15,Light Commercial Vehicles,2,107,Logistics
+2020-08-15,Heavy Goods Vehicles,2,107,Logistics
+2020-08-15,All motor vehicles,2,98,All motor vehicles
+2020-08-15,National Rail,"3,4",33,Other public
+2020-08-15,TfL Tube,5,33,London public
+2020-08-15,TfL Bus,"5,7",54,London public
+2020-08-15,Bus excl. London,"6,8,9",46,Other public
+2020-08-15,Cycling,"10,11",135,Cycling
+2020-08-16,Cars,2,95,Cars
+2020-08-16,Light Commercial Vehicles,2,110.00000000000001,Logistics
+2020-08-16,Heavy Goods Vehicles,2,114.99999999999999,Logistics
+2020-08-16,All motor vehicles,2,98,All motor vehicles
+2020-08-16,National Rail,"3,4",33,Other public
+2020-08-16,TfL Tube,5,32,London public
+2020-08-16,TfL Bus,"5,7",54,London public
+2020-08-16,Bus excl. London,"6,8,9",48,Other public
+2020-08-16,Cycling,"10,11",132,Cycling
+2020-08-17,Cars,2,88,Cars
+2020-08-17,Light Commercial Vehicles,2,100,Logistics
+2020-08-17,Heavy Goods Vehicles,2,100,Logistics
+2020-08-17,All motor vehicles,2,91,All motor vehicles
+2020-08-17,National Rail,"3,4",33,Other public
+2020-08-17,TfL Tube,5,30,London public
+2020-08-17,TfL Bus,"5,7",53,London public
+2020-08-17,Bus excl. London,"6,8,9",41,Other public
+2020-08-17,Cycling,"10,11",102,Cycling
+2020-08-18,Cars,2,86,Cars
+2020-08-18,Light Commercial Vehicles,2,98,Logistics
+2020-08-18,Heavy Goods Vehicles,2,99,Logistics
+2020-08-18,All motor vehicles,2,89,All motor vehicles
+2020-08-18,National Rail,"3,4",33,Other public
+2020-08-18,TfL Tube,5,30,London public
+2020-08-18,TfL Bus,"5,7",54,London public
+2020-08-18,Bus excl. London,"6,8,9",43,Other public
+2020-08-18,Cycling,"10,11",107,Cycling
+2020-08-19,Cars,2,84,Cars
+2020-08-19,Light Commercial Vehicles,2,95,Logistics
+2020-08-19,Heavy Goods Vehicles,2,97,Logistics
+2020-08-19,All motor vehicles,2,87,All motor vehicles
+2020-08-19,National Rail,"3,4",33,Other public
+2020-08-19,TfL Tube,5,30,London public
+2020-08-19,TfL Bus,"5,7",51,London public
+2020-08-19,Bus excl. London,"6,8,9",39,Other public
+2020-08-19,Cycling,"10,11",82,Cycling
+2020-08-20,Cars,2,89,Cars
+2020-08-20,Light Commercial Vehicles,2,98,Logistics
+2020-08-20,Heavy Goods Vehicles,2,98,Logistics
+2020-08-20,All motor vehicles,2,92,All motor vehicles
+2020-08-20,National Rail,"3,4",34,Other public
+2020-08-20,TfL Tube,5,31,London public
+2020-08-20,TfL Bus,"5,7",55.00000000000001,London public
+2020-08-20,Bus excl. London,"6,8,9",43,Other public
+2020-08-20,Cycling,"10,11",183,Cycling
+2020-08-21,Cars,2,89,Cars
+2020-08-21,Light Commercial Vehicles,2,96,Logistics
+2020-08-21,Heavy Goods Vehicles,2,95,Logistics
+2020-08-21,All motor vehicles,2,91,All motor vehicles
+2020-08-21,National Rail,"3,4",34,Other public
+2020-08-21,TfL Tube,5,32,London public
+2020-08-21,TfL Bus,"5,7",54,London public
+2020-08-21,Bus excl. London,"6,8,9",39,Other public
+2020-08-21,Cycling,"10,11",62,Cycling
+2020-08-22,Cars,2,97,Cars
+2020-08-22,Light Commercial Vehicles,2,109.00000000000001,Logistics
+2020-08-22,Heavy Goods Vehicles,2,108,Logistics
+2020-08-22,All motor vehicles,2,99,All motor vehicles
+2020-08-22,National Rail,"3,4",35,Other public
+2020-08-22,TfL Tube,5,36,London public
+2020-08-22,TfL Bus,"5,7",59,London public
+2020-08-22,Bus excl. London,"6,8,9",48,Other public
+2020-08-22,Cycling,"10,11",143,Cycling
+2020-08-23,Cars,2,99,Cars
+2020-08-23,Light Commercial Vehicles,2,114.99999999999999,Logistics
+2020-08-23,Heavy Goods Vehicles,2,115.99999999999999,Logistics
+2020-08-23,All motor vehicles,2,103,All motor vehicles
+2020-08-23,National Rail,"3,4",36,Other public
+2020-08-23,TfL Tube,5,35,London public
+2020-08-23,TfL Bus,"5,7",57.99999999999999,London public
+2020-08-23,Bus excl. London,"6,8,9",51,Other public
+2020-08-23,Cycling,"10,11",166,Cycling
+2020-08-24,Cars,2,92,Cars
+2020-08-24,Light Commercial Vehicles,2,102,Logistics
+2020-08-24,Heavy Goods Vehicles,2,99,Logistics
+2020-08-24,All motor vehicles,2,94,All motor vehicles
+2020-08-24,National Rail,"3,4",40,Other public
+2020-08-24,TfL Tube,5,32,London public
+2020-08-24,TfL Bus,"5,7",56.99999999999999,London public
+2020-08-24,Bus excl. London,"6,8,9",45,Other public
+2020-08-24,Cycling,"10,11",113.99999999999999,Cycling
+2020-08-25,Cars,2,82,Cars
+2020-08-25,Light Commercial Vehicles,2,93,Logistics
+2020-08-25,Heavy Goods Vehicles,2,95,Logistics
+2020-08-25,All motor vehicles,2,85,All motor vehicles
+2020-08-25,National Rail,"3,4",38,Other public
+2020-08-25,TfL Tube,5,35,London public
+2020-08-25,TfL Bus,"5,7",56.00000000000001,London public
+2020-08-25,Bus excl. London,"6,8,9",38,Other public
+2020-08-25,Cycling,"10,11",44,Cycling
+2020-08-26,Cars,2,90,Cars
+2020-08-26,Light Commercial Vehicles,2,100,Logistics
+2020-08-26,Heavy Goods Vehicles,2,99,Logistics
+2020-08-26,All motor vehicles,2,93,All motor vehicles
+2020-08-26,National Rail,"3,4",38,Other public
+2020-08-26,TfL Tube,5,36,London public
+2020-08-26,TfL Bus,"5,7",57.99999999999999,London public
+2020-08-26,Bus excl. London,"6,8,9",44,Other public
+2020-08-26,Cycling,"10,11",121,Cycling
+2020-08-27,Cars,2,87,Cars
+2020-08-27,Light Commercial Vehicles,2,96,Logistics
+2020-08-27,Heavy Goods Vehicles,2,98,Logistics
+2020-08-27,All motor vehicles,2,89,All motor vehicles
+2020-08-27,National Rail,"3,4",38,Other public
+2020-08-27,TfL Tube,5,32,London public
+2020-08-27,TfL Bus,"5,7",53,London public
+2020-08-27,Bus excl. London,"6,8,9",41,Other public
+2020-08-27,Cycling,"10,11",94,Cycling
+2020-08-28,Cars,2,92,Cars
+2020-08-28,Light Commercial Vehicles,2,98,Logistics
+2020-08-28,Heavy Goods Vehicles,2,97,Logistics
+2020-08-28,All motor vehicles,2,93,All motor vehicles
+2020-08-28,National Rail,"3,4",38,Other public
+2020-08-28,TfL Tube,5,34,London public
+2020-08-28,TfL Bus,"5,7",55.00000000000001,London public
+2020-08-28,Bus excl. London,"6,8,9",43,Other public
+2020-08-28,Cycling,"10,11",66,Cycling
+2020-08-29,Cars,2,98,Cars
+2020-08-29,Light Commercial Vehicles,2,109.00000000000001,Logistics
+2020-08-29,Heavy Goods Vehicles,2,107,Logistics
+2020-08-29,All motor vehicles,2,101,All motor vehicles
+2020-08-29,National Rail,"3,4",38,Other public
+2020-08-29,TfL Tube,5,42,London public
+2020-08-29,TfL Bus,"5,7",61,London public
+2020-08-29,Bus excl. London,"6,8,9",53,Other public
+2020-08-29,Cycling,"10,11",133,Cycling
+2020-08-30,Cars,2,102,Cars
+2020-08-30,Light Commercial Vehicles,2,115.99999999999999,Logistics
+2020-08-30,Heavy Goods Vehicles,2,107,Logistics
+2020-08-30,All motor vehicles,2,105,All motor vehicles
+2020-08-30,National Rail,"3,4",38,Other public
+2020-08-30,TfL Tube,5,39,London public
+2020-08-30,TfL Bus,"5,7",59,London public
+2020-08-30,Bus excl. London,"6,8,9",59,Other public
+2020-08-30,Cycling,"10,11",177,Cycling
+2020-08-31,Cars,2,86,Cars
+2020-08-31,Light Commercial Vehicles,2,74,Logistics
+2020-08-31,Heavy Goods Vehicles,2,46,Logistics
+2020-08-31,All motor vehicles,2,82,All motor vehicles
+2020-08-31,National Rail,"3,4",32,Other public
+2020-08-31,TfL Tube,5,45,London public
+2020-08-31,TfL Bus,"5,7",69,London public
+2020-08-31,Bus excl. London,"6,8,9",54,Other public
+2020-08-31,Cycling,"10,11",131,Cycling
+2020-09-01,Cars,2,91,Cars
+2020-09-01,Light Commercial Vehicles,2,101,Logistics
+2020-09-01,Heavy Goods Vehicles,2,99,Logistics
+2020-09-01,All motor vehicles,2,94,All motor vehicles
+2020-09-01,National Rail,"3,4",35,Other public
+2020-09-01,TfL Tube,5,33,London public
+2020-09-01,TfL Bus,"5,7",54,London public
+2020-09-01,Bus excl. London,"6,8,9",49,Other public
+2020-09-01,Cycling,"10,11",114.99999999999999,Cycling
+2020-09-02,Cars,2,87,Cars
+2020-09-02,Light Commercial Vehicles,2,98,Logistics
+2020-09-02,Heavy Goods Vehicles,2,103,Logistics
+2020-09-02,All motor vehicles,2,90,All motor vehicles
+2020-09-02,National Rail,"3,4",36,Other public
+2020-09-02,TfL Tube,5,35,London public
+2020-09-02,TfL Bus,"5,7",52,London public
+2020-09-02,Bus excl. London,"6,8,9",44,Other public
+2020-09-02,Cycling,"10,11",107,Cycling
+2020-09-03,Cars,2,87,Cars
+2020-09-03,Light Commercial Vehicles,2,97,Logistics
+2020-09-03,Heavy Goods Vehicles,2,102,Logistics
+2020-09-03,All motor vehicles,2,90,All motor vehicles
+2020-09-03,National Rail,"3,4",37,Other public
+2020-09-03,TfL Tube,5,33,London public
+2020-09-03,TfL Bus,"5,7",53,London public
+2020-09-03,Bus excl. London,"6,8,9",48,Other public
+2020-09-03,Cycling,"10,11",125,Cycling
+2020-09-04,Cars,2,93,Cars
+2020-09-04,Light Commercial Vehicles,2,101,Logistics
+2020-09-04,Heavy Goods Vehicles,2,102,Logistics
+2020-09-04,All motor vehicles,2,95,All motor vehicles
+2020-09-04,National Rail,"3,4",38,Other public
+2020-09-04,TfL Tube,5,35,London public
+2020-09-04,TfL Bus,"5,7",56.00000000000001,London public
+2020-09-04,Bus excl. London,"6,8,9",50,Other public
+2020-09-04,Cycling,"10,11",106,Cycling
+2020-09-05,Cars,2,100,Cars
+2020-09-05,Light Commercial Vehicles,2,112.99999999999999,Logistics
+2020-09-05,Heavy Goods Vehicles,2,115.99999999999999,Logistics
+2020-09-05,All motor vehicles,2,103,All motor vehicles
+2020-09-05,National Rail,"3,4",38,Other public
+2020-09-05,TfL Tube,5,42,London public
+2020-09-05,TfL Bus,"5,7",61,London public
+2020-09-05,Bus excl. London,"6,8,9",54,Other public
+2020-09-05,Cycling,"10,11",175,Cycling
+2020-09-06,Cars,2,101,Cars
+2020-09-06,Light Commercial Vehicles,2,117,Logistics
+2020-09-06,Heavy Goods Vehicles,2,120,Logistics
+2020-09-06,All motor vehicles,2,104,All motor vehicles
+2020-09-06,National Rail,"3,4",39,Other public
+2020-09-06,TfL Tube,5,41,London public
+2020-09-06,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-06,Bus excl. London,"6,8,9",56.00000000000001,Other public
+2020-09-06,Cycling,"10,11",177,Cycling
+2020-09-07,Cars,2,90,Cars
+2020-09-07,Light Commercial Vehicles,2,103,Logistics
+2020-09-07,Heavy Goods Vehicles,2,104,Logistics
+2020-09-07,All motor vehicles,2,94,All motor vehicles
+2020-09-07,National Rail,"3,4",43,Other public
+2020-09-07,TfL Tube,5,34,London public
+2020-09-07,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-07,Bus excl. London,"6,8,9",54,Other public
+2020-09-07,Cycling,"10,11",99,Cycling
+2020-09-08,Cars,2,88,Cars
+2020-09-08,Light Commercial Vehicles,2,101,Logistics
+2020-09-08,Heavy Goods Vehicles,2,104,Logistics
+2020-09-08,All motor vehicles,2,92,All motor vehicles
+2020-09-08,National Rail,"3,4",43,Other public
+2020-09-08,TfL Tube,5,34,London public
+2020-09-08,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-08,Bus excl. London,"6,8,9",56.99999999999999,Other public
+2020-09-08,Cycling,"10,11",111.00000000000001,Cycling
+2020-09-09,Cars,2,89,Cars
+2020-09-09,Light Commercial Vehicles,2,102,Logistics
+2020-09-09,Heavy Goods Vehicles,2,104,Logistics
+2020-09-09,All motor vehicles,2,93,All motor vehicles
+2020-09-09,National Rail,"3,4",43,Other public
+2020-09-09,TfL Tube,5,35,London public
+2020-09-09,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-09,Bus excl. London,"6,8,9",55.00000000000001,Other public
+2020-09-09,Cycling,"10,11",142,Cycling
+2020-09-10,Cars,2,89,Cars
+2020-09-10,Light Commercial Vehicles,2,100,Logistics
+2020-09-10,Heavy Goods Vehicles,2,102,Logistics
+2020-09-10,All motor vehicles,2,92,All motor vehicles
+2020-09-10,National Rail,"3,4",42,Other public
+2020-09-10,TfL Tube,5,36,London public
+2020-09-10,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-10,Bus excl. London,"6,8,9",56.99999999999999,Other public
+2020-09-10,Cycling,"10,11",142,Cycling
+2020-09-11,Cars,2,94,Cars
+2020-09-11,Light Commercial Vehicles,2,103,Logistics
+2020-09-11,Heavy Goods Vehicles,2,103,Logistics
+2020-09-11,All motor vehicles,2,96,All motor vehicles
+2020-09-11,National Rail,"3,4",42,Other public
+2020-09-11,TfL Tube,5,37,London public
+2020-09-11,TfL Bus,"5,7",59,London public
+2020-09-11,Bus excl. London,"6,8,9",55.00000000000001,Other public
+2020-09-11,Cycling,"10,11",99,Cycling
+2020-09-12,Cars,2,98,Cars
+2020-09-12,Light Commercial Vehicles,2,112.00000000000001,Logistics
+2020-09-12,Heavy Goods Vehicles,2,112.99999999999999,Logistics
+2020-09-12,All motor vehicles,2,101,All motor vehicles
+2020-09-12,National Rail,"3,4",41,Other public
+2020-09-12,TfL Tube,5,40,London public
+2020-09-12,TfL Bus,"5,7",59,London public
+2020-09-12,Bus excl. London,"6,8,9",54,Other public
+2020-09-12,Cycling,"10,11",168,Cycling
+2020-09-13,Cars,2,103,Cars
+2020-09-13,Light Commercial Vehicles,2,121,Logistics
+2020-09-13,Heavy Goods Vehicles,2,123,Logistics
+2020-09-13,All motor vehicles,2,107,All motor vehicles
+2020-09-13,National Rail,"3,4",41,Other public
+2020-09-13,TfL Tube,5,40,London public
+2020-09-13,TfL Bus,"5,7",59,London public
+2020-09-13,Bus excl. London,"6,8,9",57.99999999999999,Other public
+2020-09-13,Cycling,"10,11",195,Cycling
+2020-09-14,Cars,2,93,Cars
+2020-09-14,Light Commercial Vehicles,2,105,Logistics
+2020-09-14,Heavy Goods Vehicles,2,105,Logistics
+2020-09-14,All motor vehicles,2,97,All motor vehicles
+2020-09-14,National Rail,"3,4",40,Other public
+2020-09-14,TfL Tube,5,35,London public
+2020-09-14,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-14,Bus excl. London,"6,8,9",57.99999999999999,Other public
+2020-09-14,Cycling,"10,11",122,Cycling
+2020-09-15,Cars,2,89,Cars
+2020-09-15,Light Commercial Vehicles,2,102,Logistics
+2020-09-15,Heavy Goods Vehicles,2,102,Logistics
+2020-09-15,All motor vehicles,2,93,All motor vehicles
+2020-09-15,National Rail,"3,4",40,Other public
+2020-09-15,TfL Tube,5,34,London public
+2020-09-15,TfL Bus,"5,7",56.99999999999999,London public
+2020-09-15,Bus excl. London,"6,8,9",59,Other public
+2020-09-15,Cycling,"10,11",117,Cycling
+2020-09-16,Cars,2,89,Cars
+2020-09-16,Light Commercial Vehicles,2,102,Logistics
+2020-09-16,Heavy Goods Vehicles,2,105,Logistics
+2020-09-16,All motor vehicles,2,93,All motor vehicles
+2020-09-16,National Rail,"3,4",40,Other public
+2020-09-16,TfL Tube,5,36,London public
+2020-09-16,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-16,Bus excl. London,"6,8,9",56.00000000000001,Other public
+2020-09-16,Cycling,"10,11",133,Cycling
+2020-09-17,Cars,2,90,Cars
+2020-09-17,Light Commercial Vehicles,2,100,Logistics
+2020-09-17,Heavy Goods Vehicles,2,103,Logistics
+2020-09-17,All motor vehicles,2,93,All motor vehicles
+2020-09-17,National Rail,"3,4",39,Other public
+2020-09-17,TfL Tube,5,35,London public
+2020-09-17,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-17,Bus excl. London,"6,8,9",57.99999999999999,Other public
+2020-09-17,Cycling,"10,11",154,Cycling
+2020-09-18,Cars,2,95,Cars
+2020-09-18,Light Commercial Vehicles,2,103,Logistics
+2020-09-18,Heavy Goods Vehicles,2,103,Logistics
+2020-09-18,All motor vehicles,2,97,All motor vehicles
+2020-09-18,National Rail,"3,4",39,Other public
+2020-09-18,TfL Tube,5,36,London public
+2020-09-18,TfL Bus,"5,7",59,London public
+2020-09-18,Bus excl. London,"6,8,9",56.99999999999999,Other public
+2020-09-18,Cycling,"10,11",119,Cycling
+2020-09-19,Cars,2,99,Cars
+2020-09-19,Light Commercial Vehicles,2,113.99999999999999,Logistics
+2020-09-19,Heavy Goods Vehicles,2,113.99999999999999,Logistics
+2020-09-19,All motor vehicles,2,102,All motor vehicles
+2020-09-19,National Rail,"3,4",39,Other public
+2020-09-19,TfL Tube,5,42,London public
+2020-09-19,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-19,Bus excl. London,"6,8,9",55.00000000000001,Other public
+2020-09-19,Cycling,"10,11",167,Cycling
+2020-09-20,Cars,2,102,Cars
+2020-09-20,Light Commercial Vehicles,2,121,Logistics
+2020-09-20,Heavy Goods Vehicles,2,125,Logistics
+2020-09-20,All motor vehicles,2,106,All motor vehicles
+2020-09-20,National Rail,"3,4",39,Other public
+2020-09-20,TfL Tube,5,40,London public
+2020-09-20,TfL Bus,"5,7",61,London public
+2020-09-20,Bus excl. London,"6,8,9",59,Other public
+2020-09-20,Cycling,"10,11",182,Cycling
+2020-09-21,Cars,2,92,Cars
+2020-09-21,Light Commercial Vehicles,2,105,Logistics
+2020-09-21,Heavy Goods Vehicles,2,106,Logistics
+2020-09-21,All motor vehicles,2,96,All motor vehicles
+2020-09-21,National Rail,"3,4",39,Other public
+2020-09-21,TfL Tube,5,35,London public
+2020-09-21,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-21,Bus excl. London,"6,8,9",59,Other public
+2020-09-21,Cycling,"10,11",125,Cycling
+2020-09-22,Cars,2,88,Cars
+2020-09-22,Light Commercial Vehicles,2,102,Logistics
+2020-09-22,Heavy Goods Vehicles,2,104,Logistics
+2020-09-22,All motor vehicles,2,92,All motor vehicles
+2020-09-22,National Rail,"3,4",39,Other public
+2020-09-22,TfL Tube,5,35,London public
+2020-09-22,TfL Bus,"5,7",59,London public
+2020-09-22,Bus excl. London,"6,8,9",60,Other public
+2020-09-22,Cycling,"10,11",122,Cycling
+2020-09-23,Cars,2,85,Cars
+2020-09-23,Light Commercial Vehicles,2,100,Logistics
+2020-09-23,Heavy Goods Vehicles,2,105,Logistics
+2020-09-23,All motor vehicles,2,89,All motor vehicles
+2020-09-23,National Rail,"3,4",38,Other public
+2020-09-23,TfL Tube,5,34,London public
+2020-09-23,TfL Bus,"5,7",56.99999999999999,London public
+2020-09-23,Bus excl. London,"6,8,9",54,Other public
+2020-09-23,Cycling,"10,11",81,Cycling
+2020-09-24,Cars,2,86,Cars
+2020-09-24,Light Commercial Vehicles,2,100,Logistics
+2020-09-24,Heavy Goods Vehicles,2,104,Logistics
+2020-09-24,All motor vehicles,2,90,All motor vehicles
+2020-09-24,National Rail,"3,4",38,Other public
+2020-09-24,TfL Tube,5,34,London public
+2020-09-24,TfL Bus,"5,7",56.99999999999999,London public
+2020-09-24,Bus excl. London,"6,8,9",56.00000000000001,Other public
+2020-09-24,Cycling,"10,11",115.99999999999999,Cycling
+2020-09-25,Cars,2,91,Cars
+2020-09-25,Light Commercial Vehicles,2,102,Logistics
+2020-09-25,Heavy Goods Vehicles,2,103,Logistics
+2020-09-25,All motor vehicles,2,94,All motor vehicles
+2020-09-25,National Rail,"3,4",37,Other public
+2020-09-25,TfL Tube,5,36,London public
+2020-09-25,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-25,Bus excl. London,"6,8,9",56.00000000000001,Other public
+2020-09-25,Cycling,"10,11",87,Cycling
+2020-09-26,Cars,2,95,Cars
+2020-09-26,Light Commercial Vehicles,2,110.00000000000001,Logistics
+2020-09-26,Heavy Goods Vehicles,2,115.99999999999999,Logistics
+2020-09-26,All motor vehicles,2,98,All motor vehicles
+2020-09-26,National Rail,"3,4",37,Other public
+2020-09-26,TfL Tube,5,42,London public
+2020-09-26,TfL Bus,"5,7",56.99999999999999,London public
+2020-09-26,Bus excl. London,"6,8,9",54,Other public
+2020-09-26,Cycling,"10,11",123,Cycling
+2020-09-27,Cars,2,96,Cars
+2020-09-27,Light Commercial Vehicles,2,113.99999999999999,Logistics
+2020-09-27,Heavy Goods Vehicles,2,124,Logistics
+2020-09-27,All motor vehicles,2,100,All motor vehicles
+2020-09-27,National Rail,"3,4",36,Other public
+2020-09-27,TfL Tube,5,41,London public
+2020-09-27,TfL Bus,"5,7",56.99999999999999,London public
+2020-09-27,Bus excl. London,"6,8,9",57.99999999999999,Other public
+2020-09-27,Cycling,"10,11",137,Cycling
+2020-09-28,Cars,2,89,Cars
+2020-09-28,Light Commercial Vehicles,2,104,Logistics
+2020-09-28,Heavy Goods Vehicles,2,107,Logistics
+2020-09-28,All motor vehicles,2,93,All motor vehicles
+2020-09-28,National Rail,"3,4",35,Other public
+2020-09-28,TfL Tube,5,34,London public
+2020-09-28,TfL Bus,"5,7",56.99999999999999,London public
+2020-09-28,Bus excl. London,"6,8,9",56.99999999999999,Other public
+2020-09-28,Cycling,"10,11",112.99999999999999,Cycling
+2020-09-29,Cars,2,87,Cars
+2020-09-29,Light Commercial Vehicles,2,101,Logistics
+2020-09-29,Heavy Goods Vehicles,2,105,Logistics
+2020-09-29,All motor vehicles,2,91,All motor vehicles
+2020-09-29,National Rail,"3,4",34,Other public
+2020-09-29,TfL Tube,5,34,London public
+2020-09-29,TfL Bus,"5,7",57.99999999999999,London public
+2020-09-29,Bus excl. London,"6,8,9",61,Other public
+2020-09-29,Cycling,"10,11",103,Cycling
+2020-09-30,Cars,2,84,Cars
+2020-09-30,Light Commercial Vehicles,2,100,Logistics
+2020-09-30,Heavy Goods Vehicles,2,105,Logistics
+2020-09-30,All motor vehicles,2,88,All motor vehicles
+2020-09-30,National Rail,"3,4",33,Other public
+2020-09-30,TfL Tube,5,34,London public
+2020-09-30,TfL Bus,"5,7",56.99999999999999,London public
+2020-09-30,Bus excl. London,"6,8,9",55.00000000000001,Other public
+2020-09-30,Cycling,"10,11",86,Cycling
+2020-10-01,Cars,2,86,Cars
+2020-10-01,Light Commercial Vehicles,2,98,Logistics
+2020-10-01,Heavy Goods Vehicles,2,105,Logistics
+2020-10-01,All motor vehicles,2,89,All motor vehicles
+2020-10-01,National Rail,"3,4",34,Other public
+2020-10-01,TfL Tube,5,34,London public
+2020-10-01,TfL Bus,"5,7",57.99999999999999,London public
+2020-10-01,Bus excl. London,"6,8,9",60,Other public
+2020-10-01,Cycling,"10,11",129,Cycling
+2020-10-02,Cars,2,87,Cars
+2020-10-02,Light Commercial Vehicles,2,99,Logistics
+2020-10-02,Heavy Goods Vehicles,2,102,Logistics
+2020-10-02,All motor vehicles,2,90,All motor vehicles
+2020-10-02,National Rail,"3,4",34,Other public
+2020-10-02,TfL Tube,5,34,London public
+2020-10-02,TfL Bus,"5,7",55.00000000000001,London public
+2020-10-02,Bus excl. London,"6,8,9",55.00000000000001,Other public
+2020-10-02,Cycling,"10,11",60,Cycling
+2020-10-03,Cars,2,85,Cars
+2020-10-03,Light Commercial Vehicles,2,100,Logistics
+2020-10-03,Heavy Goods Vehicles,2,111.00000000000001,Logistics
+2020-10-03,All motor vehicles,2,87,All motor vehicles
+2020-10-03,National Rail,"3,4",33,Other public
+2020-10-03,TfL Tube,5,39,London public
+2020-10-03,TfL Bus,"5,7",54,London public
+2020-10-03,Bus excl. London,"6,8,9",47,Other public
+2020-10-03,Cycling,"10,11",60,Cycling
+2020-10-04,Cars,2,86,Cars
+2020-10-04,Light Commercial Vehicles,2,102,Logistics
+2020-10-04,Heavy Goods Vehicles,2,115.99999999999999,Logistics
+2020-10-04,All motor vehicles,2,89,All motor vehicles
+2020-10-04,National Rail,"3,4",33,Other public
+2020-10-04,TfL Tube,5,37,London public
+2020-10-04,TfL Bus,"5,7",52,London public
+2020-10-04,Bus excl. London,"6,8,9",55.00000000000001,Other public
+2020-10-04,Cycling,"10,11",70,Cycling
+2020-10-05,Cars,2,86,Cars
+2020-10-05,Light Commercial Vehicles,2,103,Logistics
+2020-10-05,Heavy Goods Vehicles,2,106,Logistics
+2020-10-05,All motor vehicles,2,91,All motor vehicles
+2020-10-05,National Rail,"3,4",33,Other public
+2020-10-05,TfL Tube,5,33,London public
+2020-10-05,TfL Bus,"5,7",59,London public
+2020-10-05,Bus excl. London,"6,8,9",59,Other public
+2020-10-05,Cycling,"10,11",95,Cycling
+2020-10-06,Cars,2,84,Cars
+2020-10-06,Light Commercial Vehicles,2,100,Logistics
+2020-10-06,Heavy Goods Vehicles,2,105,Logistics
+2020-10-06,All motor vehicles,2,88,All motor vehicles
+2020-10-06,National Rail,"3,4",34,Other public
+2020-10-06,TfL Tube,5,34,London public
+2020-10-06,TfL Bus,"5,7",57.99999999999999,London public
+2020-10-06,Bus excl. London,"6,8,9",60,Other public
+2020-10-06,Cycling,"10,11",84,Cycling
+2020-10-07,Cars,2,86,Cars
+2020-10-07,Light Commercial Vehicles,2,101,Logistics
+2020-10-07,Heavy Goods Vehicles,2,106,Logistics
+2020-10-07,All motor vehicles,2,90,All motor vehicles
+2020-10-07,National Rail,"3,4",34,Other public
+2020-10-07,TfL Tube,5,35,London public
+2020-10-07,TfL Bus,"5,7",59,London public
+2020-10-07,Bus excl. London,"6,8,9",57.99999999999999,Other public
+2020-10-07,Cycling,"10,11",127,Cycling
+2020-10-08,Cars,2,84,Cars
+2020-10-08,Light Commercial Vehicles,2,98,Logistics
+2020-10-08,Heavy Goods Vehicles,2,104,Logistics
+2020-10-08,All motor vehicles,2,88,All motor vehicles
+2020-10-08,National Rail,"3,4",34,Other public
+2020-10-08,TfL Tube,5,34,London public
+2020-10-08,TfL Bus,"5,7",56.99999999999999,London public
+2020-10-08,Bus excl. London,"6,8,9",56.99999999999999,Other public
+2020-10-08,Cycling,"10,11",109.00000000000001,Cycling
+2020-10-09,Cars,2,88,Cars
+2020-10-09,Light Commercial Vehicles,2,100,Logistics
+2020-10-09,Heavy Goods Vehicles,2,104,Logistics
+2020-10-09,All motor vehicles,2,91,All motor vehicles
+2020-10-09,National Rail,"3,4",33,Other public
+2020-10-09,TfL Tube,5,36,London public
+2020-10-09,TfL Bus,"5,7",60,London public
+2020-10-09,Bus excl. London,"6,8,9",56.99999999999999,Other public
+2020-10-09,Cycling,"10,11",95,Cycling
+2020-10-10,Cars,2,91,Cars
+2020-10-10,Light Commercial Vehicles,2,107,Logistics
+2020-10-10,Heavy Goods Vehicles,2,112.99999999999999,Logistics
+2020-10-10,All motor vehicles,2,94,All motor vehicles
+2020-10-10,National Rail,"3,4",32,Other public
+2020-10-10,TfL Tube,5,43,London public
+2020-10-10,TfL Bus,"5,7",61,London public
+2020-10-10,Bus excl. London,"6,8,9",53,Other public
+2020-10-10,Cycling,"10,11",NA,Cycling
+2020-10-11,Cars,2,94,Cars
+2020-10-11,Light Commercial Vehicles,2,112.99999999999999,Logistics
+2020-10-11,Heavy Goods Vehicles,2,122,Logistics
+2020-10-11,All motor vehicles,2,98,All motor vehicles
+2020-10-11,National Rail,"3,4",33,Other public
+2020-10-11,TfL Tube,5,41,London public
+2020-10-11,TfL Bus,"5,7",61,London public
+2020-10-11,Bus excl. London,"6,8,9",57.99999999999999,Other public
+2020-10-11,Cycling,"10,11",NA,Cycling
+2020-10-12,Cars,2,85,Cars
+2020-10-12,Light Commercial Vehicles,2,102,Logistics
+2020-10-12,Heavy Goods Vehicles,2,106,Logistics
+2020-10-12,All motor vehicles,2,89,All motor vehicles
+2020-10-12,National Rail,"3,4",33,Other public
+2020-10-12,TfL Tube,5,33,London public
+2020-10-12,TfL Bus,"5,7",59,London public
+2020-10-12,Bus excl. London,"6,8,9",56.00000000000001,Other public
+2020-10-12,Cycling,"10,11",NA,Cycling
